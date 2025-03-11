@@ -1,0 +1,421 @@
+2024-10-17 10:23:46 - INFO - Starting dataset_downloader.py
+2024-10-17 10:23:46 - INFO - Starting download for dataset 'sunflowerstarseg_11_yolov11' from Roboflow.
+2024-10-17 10:23:46 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-10-17 10:23:46 - INFO - workspace: sunflowerstarlab
+2024-10-17 10:23:46 - INFO - project: sunflowerstarseg
+2024-10-17 10:23:46 - INFO - version: 11
+2024-10-17 10:23:46 - INFO - dataset_name: sunflowerstarseg_11_yolov11
+2024-10-17 10:23:47 - INFO - Dataset 'sunflowerstarseg_11_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11' and is complete. Skipping download.
+2024-10-17 10:23:47 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 10:23:47 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-17 10:23:47 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-17 10:23:47 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 10:23:47 - INFO - Dataset structure verified successfully.
+2024-10-17 10:23:47 - INFO - Dataset download and preparation completed successfully.
+2024-10-17 12:22:08 - INFO - Starting dataset_downloader.py
+2024-10-17 12:22:08 - INFO - Starting download for dataset 'sunflowerstarseg_11_yolov11' from Roboflow.
+2024-10-17 12:22:08 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-10-17 12:22:08 - INFO - workspace: sunflowerstarlab
+2024-10-17 12:22:08 - INFO - project: sunflowerstarseg
+2024-10-17 12:22:08 - INFO - version: 11
+2024-10-17 12:22:08 - INFO - dataset_name: sunflowerstarseg_11_yolov11
+2024-10-17 12:22:09 - INFO - Dataset 'sunflowerstarseg_11_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11' and is complete. Skipping download.
+2024-10-17 12:22:09 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 12:22:09 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-17 12:22:09 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-17 12:22:09 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 12:22:09 - INFO - Dataset structure verified successfully.
+2024-10-17 12:22:09 - INFO - Dataset download and preparation completed successfully.
+2024-10-17 15:37:51 - INFO - Starting dataset_downloader.py
+2024-10-17 15:37:51 - INFO - Starting download for dataset 'sunflowerstarseg_11_yolov11' from Roboflow.
+2024-10-17 15:37:51 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-10-17 15:37:51 - INFO - workspace: sunflowerstarlab
+2024-10-17 15:37:51 - INFO - project: sunflowerstarseg
+2024-10-17 15:37:51 - INFO - version: 11
+2024-10-17 15:37:51 - INFO - dataset_name: sunflowerstarseg_11_yolov11
+2024-10-17 15:37:52 - INFO - Dataset 'sunflowerstarseg_11_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11' and is complete. Skipping download.
+2024-10-17 15:37:52 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 15:37:52 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-17 15:37:52 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-17 15:37:52 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 15:37:52 - INFO - Dataset structure verified successfully.
+2024-10-17 15:37:52 - INFO - Dataset download and preparation completed successfully.
+2024-10-17 15:41:26 - INFO - Starting dataset_downloader.py
+2024-10-17 15:41:26 - INFO - Starting download for dataset 'sunflowerstarseg_11_yolov11' from Roboflow.
+2024-10-17 15:41:26 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-10-17 15:41:26 - INFO - workspace: sunflowerstarlab
+2024-10-17 15:41:26 - INFO - project: sunflowerstarseg
+2024-10-17 15:41:26 - INFO - version: 11
+2024-10-17 15:41:26 - INFO - dataset_name: sunflowerstarseg_11_yolov11
+2024-10-17 15:41:27 - INFO - Dataset 'sunflowerstarseg_11_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11' and is complete. Skipping download.
+2024-10-17 15:41:27 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 15:41:27 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-17 15:41:27 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-17 15:41:27 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 15:41:27 - INFO - Dataset structure verified successfully.
+2024-10-17 15:41:27 - INFO - Dataset download and preparation completed successfully.
+2024-10-18 10:29:48 - INFO - Starting dataset_downloader.py
+2024-10-18 10:29:48 - INFO - Starting download for dataset 'sunflowerstarseg_11_yolov11' from Roboflow.
+2024-10-18 10:29:48 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-10-18 10:29:48 - INFO - workspace: sunflowerstarlab
+2024-10-18 10:29:48 - INFO - project: sunflowerstarseg
+2024-10-18 10:29:48 - INFO - version: 11
+2024-10-18 10:29:48 - INFO - dataset_name: sunflowerstarseg_11_yolov11
+2024-10-18 10:29:49 - INFO - Dataset 'sunflowerstarseg_11_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11' and is complete. Skipping download.
+2024-10-18 10:29:49 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:29:49 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-18 10:29:49 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-18 10:29:49 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:29:49 - INFO - Dataset structure verified successfully.
+2024-10-18 10:29:49 - INFO - Dataset download and preparation completed successfully.
+2024-10-18 10:44:29 - INFO - Starting dataset_downloader.py
+2024-10-18 10:44:29 - INFO - Starting download for dataset 'sunflowerstarseg_11_yolov11' from Roboflow.
+2024-10-18 10:44:29 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-10-18 10:44:29 - INFO - workspace: sunflowerstarlab
+2024-10-18 10:44:29 - INFO - project: sunflowerstarseg
+2024-10-18 10:44:29 - INFO - version: 11
+2024-10-18 10:44:29 - INFO - dataset_name: sunflowerstarseg_11_yolov11
+2024-10-18 10:44:30 - INFO - Dataset 'sunflowerstarseg_11_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11' and is complete. Skipping download.
+2024-10-18 10:44:30 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:44:30 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-18 10:44:30 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-18 10:44:30 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:44:30 - INFO - Dataset structure verified successfully.
+2024-10-18 10:44:30 - INFO - Dataset download and preparation completed successfully.
+2024-10-18 10:47:11 - INFO - Starting dataset_downloader.py
+2024-10-18 10:47:11 - INFO - Starting download for dataset 'sunflowerstarseg_11_yolov11' from Roboflow.
+2024-10-18 10:47:11 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-10-18 10:47:11 - INFO - workspace: sunflowerstarlab
+2024-10-18 10:47:11 - INFO - project: sunflowerstarseg
+2024-10-18 10:47:11 - INFO - version: 11
+2024-10-18 10:47:11 - INFO - dataset_name: sunflowerstarseg_11_yolov11
+2024-10-18 10:47:12 - INFO - Dataset 'sunflowerstarseg_11_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11' and is complete. Skipping download.
+2024-10-18 10:47:12 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:47:12 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-18 10:47:12 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-18 10:47:12 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:47:12 - INFO - Dataset structure verified successfully.
+2024-10-18 10:47:12 - INFO - Dataset download and preparation completed successfully.
+2024-10-18 10:47:29 - INFO - Starting dataset_downloader.py
+2024-10-18 10:47:29 - INFO - Starting download for dataset 'sunflowerstarseg_11_yolov11' from Roboflow.
+2024-10-18 10:47:29 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-10-18 10:47:29 - INFO - workspace: sunflowerstarlab
+2024-10-18 10:47:29 - INFO - project: sunflowerstarseg
+2024-10-18 10:47:29 - INFO - version: 11
+2024-10-18 10:47:29 - INFO - dataset_name: sunflowerstarseg_11_yolov11
+2024-10-18 10:47:30 - INFO - Dataset 'sunflowerstarseg_11_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11' and is complete. Skipping download.
+2024-10-18 10:47:30 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:47:30 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-18 10:47:30 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-18 10:47:30 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:47:30 - INFO - Dataset structure verified successfully.
+2024-10-18 10:47:30 - INFO - Dataset download and preparation completed successfully.
+2024-10-18 11:01:52 - INFO - Starting dataset_downloader.py
+2024-10-18 11:01:52 - INFO - Starting download for dataset 'sunflowerstarseg_11_yolov11' from Roboflow.
+2024-10-18 11:01:52 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-10-18 11:01:52 - INFO - workspace: sunflowerstarlab
+2024-10-18 11:01:52 - INFO - project: sunflowerstarseg
+2024-10-18 11:01:52 - INFO - version: 11
+2024-10-18 11:01:52 - INFO - dataset_name: sunflowerstarseg_11_yolov11
+2024-10-18 11:01:53 - INFO - Dataset 'sunflowerstarseg_11_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11' and is complete. Skipping download.
+2024-10-18 11:01:53 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 11:01:53 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-18 11:01:53 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-18 11:01:53 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 11:01:53 - INFO - Dataset structure verified successfully.
+2024-10-18 11:01:53 - INFO - Dataset download and preparation completed successfully.
+2024-10-18 11:30:33 - INFO - Starting dataset_downloader.py
+2024-10-18 11:30:33 - INFO - Starting download for dataset 'sunflowerstarseg_11_yolov11' from Roboflow.
+2024-10-18 11:30:33 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-10-18 11:30:33 - INFO - workspace: sunflowerstarlab
+2024-10-18 11:30:33 - INFO - project: sunflowerstarseg
+2024-10-18 11:30:33 - INFO - version: 11
+2024-10-18 11:30:33 - INFO - dataset_name: sunflowerstarseg_11_yolov11
+2024-10-18 11:30:34 - INFO - Dataset 'sunflowerstarseg_11_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11' and is complete. Skipping download.
+2024-10-18 11:30:34 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 11:30:34 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-18 11:30:34 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-18 11:30:34 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 11:30:34 - INFO - Dataset structure verified successfully.
+2024-10-18 11:30:34 - INFO - Dataset download and preparation completed successfully.
+2024-10-18 11:34:09 - INFO - Starting dataset_downloader.py
+2024-10-18 11:34:09 - INFO - Starting download for dataset 'sunflowerstarseg_11_yolov11' from Roboflow.
+2024-10-18 11:34:09 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-10-18 11:34:09 - INFO - workspace: sunflowerstarlab
+2024-10-18 11:34:09 - INFO - project: sunflowerstarseg
+2024-10-18 11:34:09 - INFO - version: 11
+2024-10-18 11:34:09 - INFO - dataset_name: sunflowerstarseg_11_yolov11
+2024-10-18 11:34:11 - INFO - Dataset 'sunflowerstarseg_11_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11' and is complete. Skipping download.
+2024-10-18 11:34:11 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 11:34:11 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-18 11:34:11 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-18 11:34:11 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 11:34:11 - INFO - Dataset structure verified successfully.
+2024-10-18 11:34:11 - INFO - Dataset download and preparation completed successfully.
+2024-11-12 09:07:09 - INFO - Starting dataset_downloader.py
+2024-11-12 09:07:09 - INFO - Starting download for dataset 'sunflowerstarsegchamber_1_yolov11' from Roboflow.
+2024-11-12 09:07:09 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-11-12 09:07:09 - INFO - workspace: sunflowerstarlab
+2024-11-12 09:07:09 - INFO - project: sunflowerstarsegchamber
+2024-11-12 09:07:09 - INFO - version: 1
+2024-11-12 09:07:09 - INFO - dataset_name: sunflowerstarsegchamber_1_yolov11
+2024-11-12 09:07:11 - INFO - Dataset 'sunflowerstarsegchamber_1_yolov11' downloaded successfully to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11'.
+2024-11-12 09:07:11 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11'.
+2024-11-12 09:07:11 - WARNING - YAML configuration file not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\data.yaml'. Creating a new one.
+2024-11-12 09:07:11 - ERROR - Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\train\labels'. Cannot create data.yaml.
+2024-11-12 09:07:11 - ERROR - An error occurred during dataset download: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\train\labels'. Cannot create data.yaml.
+Traceback (most recent call last):
+  File "D:\trainYolo\src\dataset_downloader.py", line 217, in main
+    prepare_yaml(dataset_path)
+  File "D:\trainYolo\src\dataset_downloader.py", line 52, in prepare_yaml
+    raise FileNotFoundError(error_msg)
+FileNotFoundError: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\train\labels'. Cannot create data.yaml.
+2024-11-12 09:07:49 - INFO - Starting dataset_downloader.py
+2024-11-12 09:07:49 - INFO - Starting download for dataset 'sunflowerstarsegchamber_1_yolov11' from Roboflow.
+2024-11-12 09:07:49 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-11-12 09:07:49 - INFO - workspace: sunflowerstarlab
+2024-11-12 09:07:49 - INFO - project: sunflowerstarsegchamber
+2024-11-12 09:07:49 - INFO - version: 1
+2024-11-12 09:07:49 - INFO - dataset_name: sunflowerstarsegchamber_1_yolov11
+2024-11-12 09:07:51 - INFO - Dataset 'sunflowerstarsegchamber_1_yolov11' downloaded successfully to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11'.
+2024-11-12 09:07:51 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11'.
+2024-11-12 09:07:51 - WARNING - YAML configuration file not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\data.yaml'. Creating a new one.
+2024-11-12 09:07:51 - ERROR - Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\train\labels'. Cannot create data.yaml.
+2024-11-12 09:07:51 - ERROR - An error occurred during dataset download: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\train\labels'. Cannot create data.yaml.
+Traceback (most recent call last):
+  File "D:\trainYolo\src\dataset_downloader.py", line 217, in main
+    prepare_yaml(dataset_path)
+  File "D:\trainYolo\src\dataset_downloader.py", line 52, in prepare_yaml
+    raise FileNotFoundError(error_msg)
+FileNotFoundError: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\train\labels'. Cannot create data.yaml.
+2024-11-12 09:27:30 - INFO - Starting dataset_downloader.py
+2024-11-12 09:27:30 - INFO - Starting download for dataset 'sunflowerstarsegchamber_1_yolov11' from Roboflow.
+2024-11-12 09:27:30 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-11-12 09:27:30 - INFO - workspace: sunflowerstarlab
+2024-11-12 09:27:30 - INFO - project: sunflowerstarsegchamber
+2024-11-12 09:27:30 - INFO - version: 1
+2024-11-12 09:27:30 - INFO - dataset_name: sunflowerstarsegchamber_1_yolov11
+2024-11-12 09:27:31 - INFO - Dataset 'sunflowerstarsegchamber_1_yolov11' downloaded successfully to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11'.
+2024-11-12 09:27:31 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11'.
+2024-11-12 09:27:31 - WARNING - YAML configuration file not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\data.yaml'. Creating a new one.
+2024-11-12 09:27:31 - ERROR - Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\train\labels'. Cannot create data.yaml.
+2024-11-12 09:27:31 - ERROR - An error occurred during dataset download: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\train\labels'. Cannot create data.yaml.
+Traceback (most recent call last):
+  File "D:\trainYolo\src\dataset_downloader.py", line 211, in main
+    prepare_yaml(dataset_path)
+  File "D:\trainYolo\src\dataset_downloader.py", line 52, in prepare_yaml
+    raise FileNotFoundError(error_msg)
+FileNotFoundError: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\train\labels'. Cannot create data.yaml.
+2024-11-12 09:28:10 - INFO - Starting dataset_downloader.py
+2024-11-12 09:28:10 - INFO - Starting download for dataset 'sunflowerstarsegchamber_1_yolov11' from Roboflow.
+2024-11-12 09:28:10 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-11-12 09:28:10 - INFO - workspace: sunflowerstarlab
+2024-11-12 09:28:10 - INFO - project: sunflowerstarsegchamber
+2024-11-12 09:28:10 - INFO - version: 1
+2024-11-12 09:28:10 - INFO - dataset_name: sunflowerstarsegchamber_1_yolov11
+2024-11-12 09:28:10 - WARNING - Missing required subdirectory: 'train/images'
+2024-11-12 09:28:10 - WARNING - Dataset 'sunflowerstarsegchamber_1_yolov11' directory exists but is incomplete. Re-downloading.
+2024-11-12 09:28:10 - INFO - Deleted incomplete dataset directory 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11'.
+2024-11-12 09:28:10 - INFO - Downloading dataset 'sunflowerstarsegchamber_1_yolov11' to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11'...
+2024-11-12 09:28:11 - INFO - Dataset 'sunflowerstarsegchamber_1_yolov11' downloaded successfully to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11'.
+2024-11-12 09:28:11 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11'.
+2024-11-12 09:28:11 - WARNING - YAML configuration file not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\data.yaml'. Creating a new one.
+2024-11-12 09:28:11 - ERROR - Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\train\labels'. Cannot create data.yaml.
+2024-11-12 09:28:11 - ERROR - An error occurred during dataset download: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\train\labels'. Cannot create data.yaml.
+Traceback (most recent call last):
+  File "D:\trainYolo\src\dataset_downloader.py", line 212, in main
+    prepare_yaml(dataset_path)
+  File "D:\trainYolo\src\dataset_downloader.py", line 52, in prepare_yaml
+    raise FileNotFoundError(error_msg)
+FileNotFoundError: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\train\labels'. Cannot create data.yaml.
+2024-11-12 09:33:54 - INFO - Starting dataset_downloader.py
+2024-11-12 09:33:54 - INFO - Starting download for dataset 'sunflowerstarsegchamber_1_yolov11' from Roboflow.
+2024-11-12 09:33:54 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-11-12 09:33:54 - INFO - workspace: sunflowerstarlab
+2024-11-12 09:33:54 - INFO - project: sunflowerstarsegchamber
+2024-11-12 09:33:54 - INFO - version: 2
+2024-11-12 09:33:54 - INFO - dataset_name: sunflowerstarsegchamber_1_yolov11
+2024-11-12 09:33:54 - INFO - Downloading dataset 'sunflowerstarsegchamber_1_yolov11' to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11'...
+2024-11-12 09:33:55 - INFO - Dataset 'sunflowerstarsegchamber_1_yolov11' downloaded successfully to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11'.
+2024-11-12 09:33:55 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11'.
+2024-11-12 09:33:55 - WARNING - YAML configuration file not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\data.yaml'. Creating a new one.
+2024-11-12 09:33:55 - ERROR - Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\train\labels'. Cannot create data.yaml.
+2024-11-12 09:33:55 - ERROR - An error occurred during dataset download: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\train\labels'. Cannot create data.yaml.
+Traceback (most recent call last):
+  File "D:\trainYolo\src\dataset_downloader.py", line 212, in main
+    prepare_yaml(dataset_path)
+  File "D:\trainYolo\src\dataset_downloader.py", line 52, in prepare_yaml
+    raise FileNotFoundError(error_msg)
+FileNotFoundError: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_1_yolov11\train\labels'. Cannot create data.yaml.
+2024-11-12 09:34:11 - INFO - Starting dataset_downloader.py
+2024-11-12 09:34:11 - INFO - Starting download for dataset 'sunflowerstarsegchamber_2_yolov11' from Roboflow.
+2024-11-12 09:34:11 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-11-12 09:34:11 - INFO - workspace: sunflowerstarlab
+2024-11-12 09:34:11 - INFO - project: sunflowerstarsegchamber
+2024-11-12 09:34:11 - INFO - version: 2
+2024-11-12 09:34:11 - INFO - dataset_name: sunflowerstarsegchamber_2_yolov11
+2024-11-12 09:34:12 - INFO - Dataset 'sunflowerstarsegchamber_2_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11' and is complete. Skipping download.
+2024-11-12 09:34:12 - INFO - Downloading dataset 'sunflowerstarsegchamber_2_yolov11' to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'...
+2024-11-12 09:34:13 - INFO - Dataset 'sunflowerstarsegchamber_2_yolov11' downloaded successfully to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:34:13 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:34:13 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:34:13 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:34:13 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:34:13 - INFO - Dataset structure verified successfully.
+2024-11-12 09:34:13 - INFO - Dataset download and preparation completed successfully.
+2024-11-12 09:37:49 - INFO - Starting dataset_downloader.py
+2024-11-12 09:37:49 - INFO - Starting download for dataset 'sunflowerstarsegchamber_2_yolov11' from Roboflow.
+2024-11-12 09:37:49 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-11-12 09:37:49 - INFO - workspace: sunflowerstarlab
+2024-11-12 09:37:49 - INFO - project: sunflowerstarsegchamber
+2024-11-12 09:37:49 - INFO - version: 2
+2024-11-12 09:37:49 - INFO - dataset_name: sunflowerstarsegchamber_2_yolov11
+2024-11-12 09:37:50 - INFO - Dataset 'sunflowerstarsegchamber_2_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11' and is complete. Skipping download.
+2024-11-12 09:37:50 - INFO - Downloading dataset 'sunflowerstarsegchamber_2_yolov11' to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'...
+2024-11-12 09:37:50 - INFO - Dataset 'sunflowerstarsegchamber_2_yolov11' downloaded successfully to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:37:50 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:37:50 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:37:50 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:37:50 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:37:50 - INFO - Dataset structure verified successfully.
+2024-11-12 09:37:50 - INFO - Dataset download and preparation completed successfully.
+2024-11-12 09:38:23 - INFO - Starting dataset_downloader.py
+2024-11-12 09:38:23 - INFO - Starting download for dataset 'sunflowerstarsegchamber_2_yolov11' from Roboflow.
+2024-11-12 09:38:23 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-11-12 09:38:23 - INFO - workspace: sunflowerstarlab
+2024-11-12 09:38:23 - INFO - project: sunflowerstarsegchamber
+2024-11-12 09:38:23 - INFO - version: 2
+2024-11-12 09:38:23 - INFO - dataset_name: sunflowerstarsegchamber_2_yolov11
+2024-11-12 09:38:24 - INFO - Dataset 'sunflowerstarsegchamber_2_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11' and is complete. Skipping download.
+2024-11-12 09:38:24 - INFO - Downloading dataset 'sunflowerstarsegchamber_2_yolov11' to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'...
+2024-11-12 09:38:24 - INFO - Dataset 'sunflowerstarsegchamber_2_yolov11' downloaded successfully to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:38:24 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:38:24 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:38:24 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:38:24 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:38:24 - INFO - Dataset structure verified successfully.
+2024-11-12 09:38:24 - INFO - Dataset download and preparation completed successfully.
+2024-11-12 09:39:13 - INFO - Starting dataset_downloader.py
+2024-11-12 09:39:13 - INFO - Starting download for dataset 'sunflowerstarsegchamber_2_yolov11' from Roboflow.
+2024-11-12 09:39:13 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-11-12 09:39:13 - INFO - workspace: sunflowerstarlab
+2024-11-12 09:39:13 - INFO - project: sunflowerstarsegchamber
+2024-11-12 09:39:13 - INFO - version: 2
+2024-11-12 09:39:13 - INFO - dataset_name: sunflowerstarsegchamber_2_yolov11
+2024-11-12 09:39:14 - INFO - Dataset 'sunflowerstarsegchamber_2_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11' and is complete. Skipping download.
+2024-11-12 09:39:14 - INFO - Downloading dataset 'sunflowerstarsegchamber_2_yolov11' to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'...
+2024-11-12 09:39:14 - INFO - Dataset 'sunflowerstarsegchamber_2_yolov11' downloaded successfully to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:39:14 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:39:14 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:39:14 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:39:14 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:39:14 - INFO - Dataset structure verified successfully.
+2024-11-12 09:39:14 - INFO - Dataset download and preparation completed successfully.
+2024-11-12 09:46:37 - INFO - Starting dataset_downloader.py
+2024-11-12 09:46:37 - INFO - Starting download for dataset 'sunflowerstarsegchamber_2_yolov11' from Roboflow.
+2024-11-12 09:46:37 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2024-11-12 09:46:37 - INFO - workspace: sunflowerstarlab
+2024-11-12 09:46:37 - INFO - project: sunflowerstarsegchamber
+2024-11-12 09:46:37 - INFO - version: 2
+2024-11-12 09:46:37 - INFO - dataset_name: sunflowerstarsegchamber_2_yolov11
+2024-11-12 09:46:38 - INFO - Dataset 'sunflowerstarsegchamber_2_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11' and is complete. Skipping download.
+2024-11-12 09:46:38 - INFO - Downloading dataset 'sunflowerstarsegchamber_2_yolov11' to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'...
+2024-11-12 09:46:39 - INFO - Dataset 'sunflowerstarsegchamber_2_yolov11' downloaded successfully to 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:46:39 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:46:39 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:46:39 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:46:39 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:46:39 - INFO - Dataset structure verified successfully.
+2024-11-12 09:46:39 - INFO - Dataset download and preparation completed successfully.
+2025-01-24 16:51:14 - INFO - Starting dataset_downloader.py
+2025-01-24 16:51:14 - INFO - Starting download for dataset 'sunflowerstarseg_3_yolov11' from Roboflow.
+2025-01-24 16:51:14 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2025-01-24 16:51:14 - INFO - workspace: sunflowerstarlab
+2025-01-24 16:51:14 - INFO - project: sunflowerstarseg
+2025-01-24 16:51:14 - INFO - version: 12
+2025-01-24 16:51:14 - INFO - dataset_name: sunflowerstarseg_3_yolov11
+2025-01-24 16:51:15 - INFO - Downloading dataset 'sunflowerstarseg_3_yolov11' to 'D:\trainYolo\src\datasets\sunflowerstarseg_3_yolov11'...
+2025-01-24 16:51:51 - INFO - Dataset 'sunflowerstarseg_3_yolov11' downloaded successfully to 'D:\trainYolo\src\datasets\sunflowerstarseg_3_yolov11'.
+2025-01-24 16:51:51 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_3_yolov11'.
+2025-01-24 16:51:51 - WARNING - YAML configuration file not found at 'D:\trainYolo\src\datasets\sunflowerstarseg_3_yolov11\data.yaml'. Creating a new one.
+2025-01-24 16:51:51 - ERROR - Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarseg_3_yolov11\train\labels'. Cannot create data.yaml.
+2025-01-24 16:51:51 - ERROR - An error occurred during dataset download: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarseg_3_yolov11\train\labels'. Cannot create data.yaml.
+Traceback (most recent call last):
+  File "D:\trainYolo\src\dataset_downloader.py", line 212, in main
+    prepare_yaml(dataset_path)
+  File "D:\trainYolo\src\dataset_downloader.py", line 52, in prepare_yaml
+    raise FileNotFoundError(error_msg)
+FileNotFoundError: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarseg_3_yolov11\train\labels'. Cannot create data.yaml.
+2025-01-24 16:53:25 - INFO - Starting dataset_downloader.py
+2025-01-24 16:53:25 - INFO - Starting download for dataset 'sunflowerstarseg_12_yolov11' from Roboflow.
+2025-01-24 16:53:25 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2025-01-24 16:53:25 - INFO - workspace: sunflowerstarlab
+2025-01-24 16:53:25 - INFO - project: sunflowerstarseg
+2025-01-24 16:53:25 - INFO - version: 12
+2025-01-24 16:53:25 - INFO - dataset_name: sunflowerstarseg_12_yolov11
+2025-01-24 16:53:26 - INFO - Downloading dataset 'sunflowerstarseg_12_yolov11' to 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'...
+2025-01-24 16:53:26 - INFO - Dataset 'sunflowerstarseg_12_yolov11' downloaded successfully to 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-24 16:53:26 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-24 16:53:26 - WARNING - YAML configuration file not found at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\data.yaml'. Creating a new one.
+2025-01-24 16:53:26 - ERROR - Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\train\labels'. Cannot create data.yaml.
+2025-01-24 16:53:26 - ERROR - An error occurred during dataset download: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\train\labels'. Cannot create data.yaml.
+Traceback (most recent call last):
+  File "D:\trainYolo\src\dataset_downloader.py", line 212, in main
+    prepare_yaml(dataset_path)
+  File "D:\trainYolo\src\dataset_downloader.py", line 52, in prepare_yaml
+    raise FileNotFoundError(error_msg)
+FileNotFoundError: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\train\labels'. Cannot create data.yaml.
+2025-01-24 16:56:59 - INFO - Starting dataset_downloader.py
+2025-01-24 16:56:59 - INFO - Starting download for dataset 'sunflowerstarseg_12_yolov11' from Roboflow.
+2025-01-24 16:56:59 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2025-01-24 16:56:59 - INFO - workspace: sunflowerstarlab
+2025-01-24 16:56:59 - INFO - project: sunflowerstarseg
+2025-01-24 16:56:59 - INFO - version: 12
+2025-01-24 16:56:59 - INFO - dataset_name: sunflowerstarseg_12_yolov11
+2025-01-24 16:57:01 - WARNING - Missing required subdirectory: 'train/images'
+2025-01-24 16:57:01 - WARNING - Dataset 'sunflowerstarseg_12_yolov11' directory exists but is incomplete. Re-downloading.
+2025-01-24 16:57:01 - INFO - Deleted incomplete dataset directory 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-24 16:57:01 - INFO - Downloading dataset 'sunflowerstarseg_12_yolov11' to 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'...
+2025-01-24 16:57:01 - INFO - Dataset 'sunflowerstarseg_12_yolov11' downloaded successfully to 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-24 16:57:01 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-24 16:57:01 - WARNING - YAML configuration file not found at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\data.yaml'. Creating a new one.
+2025-01-24 16:57:01 - ERROR - Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\train\labels'. Cannot create data.yaml.
+2025-01-24 16:57:01 - ERROR - An error occurred during dataset download: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\train\labels'. Cannot create data.yaml.
+Traceback (most recent call last):
+  File "D:\trainYolo\src\dataset_downloader.py", line 212, in main
+    prepare_yaml(dataset_path)
+  File "D:\trainYolo\src\dataset_downloader.py", line 52, in prepare_yaml
+    raise FileNotFoundError(error_msg)
+FileNotFoundError: Labels directory not found at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\train\labels'. Cannot create data.yaml.
+2025-01-24 16:58:52 - INFO - Starting dataset_downloader.py
+2025-01-24 16:58:52 - INFO - Starting download for dataset 'sunflowerstarseg_12_yolov11' from Roboflow.
+2025-01-24 16:58:52 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2025-01-24 16:58:52 - INFO - workspace: sunflowerstarlab
+2025-01-24 16:58:52 - INFO - project: sunflowerstarseg
+2025-01-24 16:58:52 - INFO - version: 12
+2025-01-24 16:58:52 - INFO - dataset_name: sunflowerstarseg_12_yolov11
+2025-01-24 16:58:53 - INFO - Dataset 'sunflowerstarseg_12_yolov11' already exists at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11' and is complete. Skipping download.
+2025-01-24 16:58:53 - INFO - Downloading dataset 'sunflowerstarseg_12_yolov11' to 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'...
+2025-01-24 16:58:53 - INFO - Dataset 'sunflowerstarseg_12_yolov11' downloaded successfully to 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-24 16:58:53 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-24 16:58:53 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\data.yaml'. Updating paths.
+2025-01-24 16:58:53 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\data.yaml'.
+2025-01-24 16:58:53 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-24 16:58:53 - INFO - Dataset structure verified successfully.
+2025-01-24 16:58:53 - INFO - Dataset download and preparation completed successfully.
+2025-01-31 14:37:44 - INFO - Starting dataset_downloader.py
+2025-01-31 14:37:44 - INFO - Starting download for dataset 'SunflowerStarSeg_13_yolov11' from Roboflow.
+2025-01-31 14:37:44 - INFO - api_key: 3DMRGtyRTVJorWA7u61H
+2025-01-31 14:37:44 - INFO - workspace: sunflowerstarlab
+2025-01-31 14:37:44 - INFO - project: sunflowerstarseg
+2025-01-31 14:37:44 - INFO - version: 13
+2025-01-31 14:37:44 - INFO - dataset_name: SunflowerStarSeg_13_yolov11
+2025-01-31 14:37:45 - INFO - Dataset 'SunflowerStarSeg_13_yolov11' already exists at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11' and is complete. Skipping download.
+2025-01-31 14:37:45 - INFO - Downloading dataset 'SunflowerStarSeg_13_yolov11' to 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11'...
+2025-01-31 14:37:45 - INFO - Dataset 'SunflowerStarSeg_13_yolov11' downloaded successfully to 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11'.
+2025-01-31 14:37:45 - INFO - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11'.
+2025-01-31 14:37:45 - INFO - YAML configuration file found at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11\data.yaml'. Updating paths.
+2025-01-31 14:37:45 - INFO - YAML configuration updated at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11\data.yaml'.
+2025-01-31 14:37:45 - INFO - Verifying dataset structure at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11'.
+2025-01-31 14:37:45 - INFO - Dataset structure verified successfully.
+2025-01-31 14:37:45 - INFO - Dataset download and preparation completed successfully.

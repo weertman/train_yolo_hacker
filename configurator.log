@@ -1,0 +1,1193 @@
+2024-10-17 10:23:45 - INFO - MainProcess - Starting configurator.py
+2024-10-17 10:23:45 - INFO - MainProcess - Combining Python files for GPT to read
+2024-10-17 10:23:45 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-10-17 10:23:45 - INFO - MainProcess - Starting dataset download process.
+2024-10-17 10:23:47 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 150, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 150, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 150, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 150, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 1.0, 'tune': False}
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment 5 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 150, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 0.5, 'tune': False}
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment 6 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 150, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 1.0, 'tune': False}
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment 7 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 150, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment 8 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 150, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment 9 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 150, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment 10 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 150, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 1.0, 'tune': False}
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment 11 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 150, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 0.5, 'tune': False}
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment 12 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 150, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 1.0, 'tune': False}
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment 13 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 150, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment 14 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 150, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-17 10:23:47 - INFO - MainProcess - Total number of experiments to run: 14
+2024-10-17 10:23:47 - INFO - MainProcess - Number of available GPUs: 2
+2024-10-17 10:23:47 - INFO - MainProcess - Running experiment 0 on GPU 1
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 150, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 10:23:47 - INFO - MainProcess - Experiment ID: 0
+2024-10-17 10:23:47 - INFO - MainProcess - Running experiment 0 on GPU 1
+2024-10-17 10:23:47 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 10:23:47 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-17 10:23:47 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-17 10:23:47 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 10:23:47 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-17 10:23:47 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11s-seg.pt
+2024-10-17 10:23:49 - INFO - MainProcess - Starting training
+2024-10-17 12:22:07 - INFO - MainProcess - Starting configurator.py
+2024-10-17 12:22:07 - INFO - MainProcess - Combining Python files for GPT to read
+2024-10-17 12:22:07 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-10-17 12:22:07 - INFO - MainProcess - Starting dataset download process.
+2024-10-17 12:22:09 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 1.0, 'tune': False}
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment 5 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 0.5, 'tune': False}
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment 6 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 1.0, 'tune': False}
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment 7 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment 8 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment 9 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment 10 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 1.0, 'tune': False}
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment 11 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 0.5, 'tune': False}
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment 12 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 1.0, 'tune': False}
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment 13 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment 14 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-17 12:22:09 - INFO - MainProcess - Total number of experiments to run: 14
+2024-10-17 12:22:09 - INFO - MainProcess - Number of available GPUs: 2
+2024-10-17 12:22:09 - INFO - MainProcess - Running experiment 0 on GPU 1
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 12:22:09 - INFO - MainProcess - Experiment ID: 0
+2024-10-17 12:22:09 - INFO - MainProcess - Running experiment 0 on GPU 1
+2024-10-17 12:22:09 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 12:22:09 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-17 12:22:09 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-17 12:22:09 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 12:22:09 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-17 12:22:09 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11s-seg.pt
+2024-10-17 12:22:10 - INFO - MainProcess - Starting training
+2024-10-17 15:37:50 - INFO - MainProcess - Starting configurator.py
+2024-10-17 15:37:50 - INFO - MainProcess - Combining Python files for GPT to read
+2024-10-17 15:37:50 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-10-17 15:37:50 - INFO - MainProcess - Starting dataset download process.
+2024-10-17 15:37:52 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 1.0, 'tune': False}
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment 5 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment 6 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 1.0, 'tune': False}
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment 7 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment 8 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment 9 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment 10 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 1.0, 'tune': False}
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment 11 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment 12 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 1.0, 'tune': False}
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment 13 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment 14 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-17 15:37:52 - INFO - MainProcess - Total number of experiments to run: 14
+2024-10-17 15:37:52 - INFO - MainProcess - Number of available GPUs: 2
+2024-10-17 15:37:52 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:37:52 - INFO - MainProcess - Experiment ID: 0
+2024-10-17 15:37:52 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-17 15:37:52 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 15:37:52 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-17 15:37:52 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-17 15:37:52 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 15:37:52 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-17 15:37:52 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11s-seg.pt
+2024-10-17 15:37:56 - INFO - MainProcess - Starting training
+2024-10-17 15:41:25 - INFO - MainProcess - Starting configurator.py
+2024-10-17 15:41:25 - INFO - MainProcess - Combining Python files for GPT to read
+2024-10-17 15:41:25 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-10-17 15:41:25 - INFO - MainProcess - Starting dataset download process.
+2024-10-17 15:41:27 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 1.0, 'tune': False}
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment 5 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment 6 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 1.0, 'tune': False}
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment 7 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment 8 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment 9 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment 10 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 1.0, 'tune': False}
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment 11 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment 12 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 1.0, 'tune': False}
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment 13 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment 14 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-17 15:41:27 - INFO - MainProcess - Total number of experiments to run: 14
+2024-10-17 15:41:27 - INFO - MainProcess - Number of available GPUs: 2
+2024-10-17 15:41:27 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-17 15:41:27 - INFO - MainProcess - Experiment ID: 0
+2024-10-17 15:41:27 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-17 15:41:27 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 15:41:27 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-17 15:41:27 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-17 15:41:27 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-17 15:41:27 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-17 15:41:27 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11s-seg.pt
+2024-10-17 15:41:31 - INFO - MainProcess - Starting training
+2024-10-18 10:29:47 - INFO - MainProcess - Starting configurator.py
+2024-10-18 10:29:47 - INFO - MainProcess - Combining Python files for GPT to read
+2024-10-18 10:29:47 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-10-18 10:29:47 - INFO - MainProcess - Starting dataset download process.
+2024-10-18 10:29:49 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-10-18 10:29:49 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-10-18 10:29:49 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 1.0, 'tune': False}
+2024-10-18 10:29:49 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 0.5, 'tune': False}
+2024-10-18 10:29:49 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 1.0, 'tune': False}
+2024-10-18 10:29:49 - INFO - MainProcess - Experiment 5 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-18 10:29:49 - INFO - MainProcess - Experiment 6 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-18 10:29:49 - INFO - MainProcess - Experiment 7 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-10-18 10:29:49 - INFO - MainProcess - Experiment 8 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 1.0, 'tune': False}
+2024-10-18 10:29:49 - INFO - MainProcess - Experiment 9 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-18 10:29:49 - INFO - MainProcess - Experiment 10 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-18 10:29:49 - INFO - MainProcess - Total number of experiments to run: 10
+2024-10-18 10:29:49 - INFO - MainProcess - Number of available GPUs: 2
+2024-10-18 10:29:49 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-18 10:29:49 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-10-18 10:29:49 - INFO - MainProcess - Experiment ID: 0
+2024-10-18 10:29:49 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-18 10:29:49 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:29:49 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-18 10:29:49 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-18 10:29:49 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:29:49 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-18 10:29:49 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11s-seg.pt
+2024-10-18 10:29:52 - INFO - MainProcess - Starting training
+2024-10-18 10:44:28 - INFO - MainProcess - Starting configurator.py
+2024-10-18 10:44:28 - INFO - MainProcess - Combining Python files for GPT to read
+2024-10-18 10:44:28 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-10-18 10:44:28 - INFO - MainProcess - Starting dataset download process.
+2024-10-18 10:44:30 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-10-18 10:44:30 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 128, 'mosaic': 0.5, 'tune': False}
+2024-10-18 10:44:30 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 128, 'mosaic': 1.0, 'tune': False}
+2024-10-18 10:44:30 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 64, 'mosaic': 0.5, 'tune': False}
+2024-10-18 10:44:30 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 64, 'mosaic': 1.0, 'tune': False}
+2024-10-18 10:44:30 - INFO - MainProcess - Experiment 5 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-10-18 10:44:30 - INFO - MainProcess - Experiment 6 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 1.0, 'tune': False}
+2024-10-18 10:44:30 - INFO - MainProcess - Experiment 7 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 0.5, 'tune': False}
+2024-10-18 10:44:30 - INFO - MainProcess - Experiment 8 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 1.0, 'tune': False}
+2024-10-18 10:44:30 - INFO - MainProcess - Experiment 9 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-18 10:44:30 - INFO - MainProcess - Experiment 10 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-18 10:44:30 - INFO - MainProcess - Total number of experiments to run: 10
+2024-10-18 10:44:30 - INFO - MainProcess - Number of available GPUs: 2
+2024-10-18 10:44:30 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-18 10:44:30 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 128, 'mosaic': 0.5, 'tune': False}
+2024-10-18 10:44:30 - INFO - MainProcess - Experiment ID: 0
+2024-10-18 10:44:30 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-18 10:44:30 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:44:30 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-18 10:44:30 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-18 10:44:30 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:44:30 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-18 10:44:30 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11s-seg.pt
+2024-10-18 10:44:33 - INFO - MainProcess - Starting training
+2024-10-18 10:46:35 - ERROR - MainProcess - An error occurred in main: CUDA out of memory. Tried to allocate 5.54 GiB. GPU 1 has a total capacity of 47.99 GiB of which 4.55 GiB is free. Of the allocated memory 37.72 GiB is allocated by PyTorch, and 4.07 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Traceback (most recent call last):
+  File "D:\trainYolo\src\trainer.py", line 255, in main
+    best_model = train_model(config)
+  File "D:\trainYolo\src\trainer.py", line 162, in train_model
+    results = model.train(
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 802, in train
+    self.trainer.train()
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\trainer.py", line 207, in train
+    self._do_train(world_size)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\trainer.py", line 385, in _do_train
+    self.loss, self.loss_items = self.model(batch)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\nn\modules\module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\nn\modules\module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 111, in forward
+    return self.loss(x, *args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 293, in loss
+    return self.criterion(preds, batch)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\loss.py", line 309, in __call__
+    _, target_bboxes, target_scores, fg_mask, target_gt_idx = self.assigner(
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\nn\modules\module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\nn\modules\module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\utils\_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\tal.py", line 72, in forward
+    mask_pos, align_metric, overlaps = self.get_pos_mask(
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\tal.py", line 92, in get_pos_mask
+    mask_in_gts = self.select_candidates_in_gts(anc_points, gt_bboxes)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\tal.py", line 230, in select_candidates_in_gts
+    bbox_deltas = torch.cat((xy_centers[None] - lt, rb - xy_centers[None]), dim=2).view(bs, n_boxes, n_anchors, -1)
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 5.54 GiB. GPU 1 has a total capacity of 47.99 GiB of which 4.55 GiB is free. Of the allocated memory 37.72 GiB is allocated by PyTorch, and 4.07 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+2024-10-18 10:46:35 - ERROR - MainProcess - Experiment 0 on GPU cuda:1 failed with error: CUDA out of memory. Tried to allocate 5.54 GiB. GPU 1 has a total capacity of 47.99 GiB of which 4.55 GiB is free. Of the allocated memory 37.72 GiB is allocated by PyTorch, and 4.07 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Traceback (most recent call last):
+  File "D:\trainYolo\src\configurator.py", line 90, in run_experiment
+    trainer_main(args_namespace)
+  File "D:\trainYolo\src\trainer.py", line 255, in main
+    best_model = train_model(config)
+  File "D:\trainYolo\src\trainer.py", line 162, in train_model
+    results = model.train(
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 802, in train
+    self.trainer.train()
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\trainer.py", line 207, in train
+    self._do_train(world_size)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\trainer.py", line 385, in _do_train
+    self.loss, self.loss_items = self.model(batch)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\nn\modules\module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\nn\modules\module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 111, in forward
+    return self.loss(x, *args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 293, in loss
+    return self.criterion(preds, batch)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\loss.py", line 309, in __call__
+    _, target_bboxes, target_scores, fg_mask, target_gt_idx = self.assigner(
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\nn\modules\module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\nn\modules\module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\utils\_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\tal.py", line 72, in forward
+    mask_pos, align_metric, overlaps = self.get_pos_mask(
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\tal.py", line 92, in get_pos_mask
+    mask_in_gts = self.select_candidates_in_gts(anc_points, gt_bboxes)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\tal.py", line 230, in select_candidates_in_gts
+    bbox_deltas = torch.cat((xy_centers[None] - lt, rb - xy_centers[None]), dim=2).view(bs, n_boxes, n_anchors, -1)
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 5.54 GiB. GPU 1 has a total capacity of 47.99 GiB of which 4.55 GiB is free. Of the allocated memory 37.72 GiB is allocated by PyTorch, and 4.07 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+2024-10-18 10:46:35 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2024-10-18 10:46:35 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 128, 'mosaic': 1.0, 'tune': False}
+2024-10-18 10:46:35 - INFO - MainProcess - Experiment ID: 1
+2024-10-18 10:46:35 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2024-10-18 10:46:35 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:46:35 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-18 10:46:35 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-18 10:46:35 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:46:35 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-18 10:46:35 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11s-seg.pt
+2024-10-18 10:46:39 - INFO - MainProcess - Starting training
+2024-10-18 10:47:10 - INFO - MainProcess - Starting configurator.py
+2024-10-18 10:47:10 - INFO - MainProcess - Combining Python files for GPT to read
+2024-10-18 10:47:10 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-10-18 10:47:10 - INFO - MainProcess - Starting dataset download process.
+2024-10-18 10:47:12 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-10-18 10:47:28 - INFO - MainProcess - Starting configurator.py
+2024-10-18 10:47:28 - INFO - MainProcess - Combining Python files for GPT to read
+2024-10-18 10:47:28 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-10-18 10:47:28 - INFO - MainProcess - Starting dataset download process.
+2024-10-18 10:47:30 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-10-18 10:47:30 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 0.5, 'tune': False}
+2024-10-18 10:47:30 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 1.0, 'tune': False}
+2024-10-18 10:47:30 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-18 10:47:30 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-18 10:47:30 - INFO - MainProcess - Total number of experiments to run: 4
+2024-10-18 10:47:30 - INFO - MainProcess - Number of available GPUs: 2
+2024-10-18 10:47:30 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-18 10:47:30 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 32, 'mosaic': 0.5, 'tune': False}
+2024-10-18 10:47:30 - INFO - MainProcess - Experiment ID: 0
+2024-10-18 10:47:30 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-18 10:47:30 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:47:30 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-18 10:47:30 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-18 10:47:30 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 10:47:30 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-18 10:47:30 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11m-seg.pt
+2024-10-18 10:47:34 - INFO - MainProcess - Starting training
+2024-10-18 11:01:51 - INFO - MainProcess - Starting configurator.py
+2024-10-18 11:01:51 - INFO - MainProcess - Combining Python files for GPT to read
+2024-10-18 11:01:51 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-10-18 11:01:51 - INFO - MainProcess - Starting dataset download process.
+2024-10-18 11:01:53 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-10-18 11:01:53 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 64, 'mosaic': 0.5, 'tune': False}
+2024-10-18 11:01:53 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 64, 'mosaic': 1.0, 'tune': False}
+2024-10-18 11:01:53 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 0.5, 'tune': False}
+2024-10-18 11:01:53 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 8, 'mosaic': 1.0, 'tune': False}
+2024-10-18 11:01:53 - INFO - MainProcess - Total number of experiments to run: 4
+2024-10-18 11:01:53 - INFO - MainProcess - Number of available GPUs: 2
+2024-10-18 11:01:53 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-18 11:01:53 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 64, 'mosaic': 0.5, 'tune': False}
+2024-10-18 11:01:53 - INFO - MainProcess - Experiment ID: 0
+2024-10-18 11:01:53 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-18 11:01:53 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 11:01:53 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-18 11:01:53 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-18 11:01:53 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 11:01:53 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-18 11:01:53 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11m-seg.pt
+2024-10-18 11:01:56 - INFO - MainProcess - Starting training
+2024-10-18 11:30:32 - INFO - MainProcess - Starting configurator.py
+2024-10-18 11:30:32 - INFO - MainProcess - Combining Python files for GPT to read
+2024-10-18 11:30:32 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-10-18 11:30:32 - INFO - MainProcess - Starting dataset download process.
+2024-10-18 11:30:34 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-10-18 11:30:34 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\models\\yolo11n-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 128, 'mosaic': 0.5, 'tune': False}
+2024-10-18 11:30:34 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\models\\yolo11n-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 128, 'mosaic': 1.0, 'tune': False}
+2024-10-18 11:30:34 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 96, 'mosaic': 0.5, 'tune': False}
+2024-10-18 11:30:34 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 96, 'mosaic': 1.0, 'tune': False}
+2024-10-18 11:30:34 - INFO - MainProcess - Experiment 5 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 64, 'mosaic': 0.5, 'tune': False}
+2024-10-18 11:30:34 - INFO - MainProcess - Experiment 6 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 64, 'mosaic': 1.0, 'tune': False}
+2024-10-18 11:30:34 - INFO - MainProcess - Experiment 7 settings: {'model': 'D:\\trainYolo\\models\\yolo11l-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-10-18 11:30:34 - INFO - MainProcess - Experiment 8 settings: {'model': 'D:\\trainYolo\\models\\yolo11l-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 1.0, 'tune': False}
+2024-10-18 11:30:34 - INFO - MainProcess - Experiment 9 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-10-18 11:30:34 - INFO - MainProcess - Experiment 10 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 12, 'mosaic': 1.0, 'tune': False}
+2024-10-18 11:30:34 - INFO - MainProcess - Total number of experiments to run: 10
+2024-10-18 11:30:35 - INFO - MainProcess - Number of available GPUs: 2
+2024-10-18 11:30:35 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-18 11:30:35 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11n-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 150, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 128, 'mosaic': 0.5, 'tune': False}
+2024-10-18 11:30:35 - INFO - MainProcess - Experiment ID: 0
+2024-10-18 11:30:35 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-18 11:30:35 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 11:30:35 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-18 11:30:35 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-18 11:30:35 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 11:30:35 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-18 11:30:35 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11n-seg.pt
+2024-10-18 11:30:36 - INFO - MainProcess - Starting training
+2024-10-18 11:34:09 - INFO - MainProcess - Starting configurator.py
+2024-10-18 11:34:09 - INFO - MainProcess - Combining Python files for GPT to read
+2024-10-18 11:34:09 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-10-18 11:34:09 - INFO - MainProcess - Starting dataset download process.
+2024-10-18 11:34:11 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-10-18 11:34:11 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\models\\yolo11n-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 128, 'mosaic': 0.5, 'tune': False}
+2024-10-18 11:34:11 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\models\\yolo11n-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 128, 'mosaic': 1.0, 'tune': False}
+2024-10-18 11:34:11 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 96, 'mosaic': 0.5, 'tune': False}
+2024-10-18 11:34:11 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 96, 'mosaic': 1.0, 'tune': False}
+2024-10-18 11:34:11 - INFO - MainProcess - Experiment 5 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 64, 'mosaic': 0.5, 'tune': False}
+2024-10-18 11:34:11 - INFO - MainProcess - Experiment 6 settings: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 64, 'mosaic': 1.0, 'tune': False}
+2024-10-18 11:34:11 - INFO - MainProcess - Experiment 7 settings: {'model': 'D:\\trainYolo\\models\\yolo11l-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-10-18 11:34:11 - INFO - MainProcess - Experiment 8 settings: {'model': 'D:\\trainYolo\\models\\yolo11l-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 1.0, 'tune': False}
+2024-10-18 11:34:11 - INFO - MainProcess - Experiment 9 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-10-18 11:34:11 - INFO - MainProcess - Experiment 10 settings: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 12, 'mosaic': 1.0, 'tune': False}
+2024-10-18 11:34:11 - INFO - MainProcess - Total number of experiments to run: 10
+2024-10-18 11:34:11 - INFO - MainProcess - Number of available GPUs: 2
+2024-10-18 11:34:11 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-18 11:34:11 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11n-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 128, 'mosaic': 0.5, 'tune': False}
+2024-10-18 11:34:11 - INFO - MainProcess - Experiment ID: 0
+2024-10-18 11:34:11 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-10-18 11:34:11 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 11:34:11 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-18 11:34:11 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-18 11:34:11 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 11:34:11 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-18 11:34:11 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11n-seg.pt
+2024-10-18 11:34:14 - INFO - MainProcess - Starting training
+2024-10-18 21:35:25 - INFO - MainProcess - Training completed
+2024-10-18 21:35:25 - INFO - MainProcess - Starting model evaluation
+2024-10-18 21:37:04 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train
+2024-10-18 21:37:04 - INFO - MainProcess - Experiment 0 on GPU cuda:1 completed successfully
+2024-10-18 21:37:04 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2024-10-18 21:37:04 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11n-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 128, 'mosaic': 1.0, 'tune': False}
+2024-10-18 21:37:04 - INFO - MainProcess - Experiment ID: 1
+2024-10-18 21:37:04 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2024-10-18 21:37:04 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 21:37:04 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-18 21:37:04 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-18 21:37:04 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-18 21:37:04 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-18 21:37:04 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11n-seg.pt
+2024-10-18 21:37:08 - INFO - MainProcess - Starting training
+2024-10-19 08:43:22 - INFO - MainProcess - Training completed
+2024-10-19 08:43:22 - INFO - MainProcess - Starting model evaluation
+2024-10-19 08:44:23 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train3
+2024-10-19 08:44:23 - INFO - MainProcess - Experiment 1 on GPU cuda:1 completed successfully
+2024-10-19 08:44:23 - INFO - MainProcess - Running experiment 2 on GPU cuda:1
+2024-10-19 08:44:23 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 96, 'mosaic': 0.5, 'tune': False}
+2024-10-19 08:44:23 - INFO - MainProcess - Experiment ID: 2
+2024-10-19 08:44:23 - INFO - MainProcess - Running experiment 2 on GPU cuda:1
+2024-10-19 08:44:23 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-19 08:44:23 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-19 08:44:23 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-19 08:44:23 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-19 08:44:23 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-19 08:44:23 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11s-seg.pt
+2024-10-19 08:44:28 - INFO - MainProcess - Starting training
+2024-10-19 23:32:25 - INFO - MainProcess - Training completed
+2024-10-19 23:32:25 - INFO - MainProcess - Starting model evaluation
+2024-10-19 23:33:28 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train4
+2024-10-19 23:33:28 - INFO - MainProcess - Experiment 2 on GPU cuda:1 completed successfully
+2024-10-19 23:33:28 - INFO - MainProcess - Running experiment 3 on GPU cuda:1
+2024-10-19 23:33:28 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11s-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 96, 'mosaic': 1.0, 'tune': False}
+2024-10-19 23:33:28 - INFO - MainProcess - Experiment ID: 3
+2024-10-19 23:33:28 - INFO - MainProcess - Running experiment 3 on GPU cuda:1
+2024-10-19 23:33:28 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-19 23:33:28 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-19 23:33:28 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-19 23:33:28 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-19 23:33:28 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-19 23:33:28 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11s-seg.pt
+2024-10-19 23:33:32 - INFO - MainProcess - Starting training
+2024-10-20 14:20:08 - INFO - MainProcess - Training completed
+2024-10-20 14:20:08 - INFO - MainProcess - Starting model evaluation
+2024-10-20 14:22:05 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train5
+2024-10-20 14:22:05 - INFO - MainProcess - Experiment 3 on GPU cuda:1 completed successfully
+2024-10-20 14:22:05 - INFO - MainProcess - Running experiment 4 on GPU cuda:1
+2024-10-20 14:22:05 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 64, 'mosaic': 0.5, 'tune': False}
+2024-10-20 14:22:05 - INFO - MainProcess - Experiment ID: 4
+2024-10-20 14:22:05 - INFO - MainProcess - Running experiment 4 on GPU cuda:1
+2024-10-20 14:22:05 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-20 14:22:05 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-20 14:22:05 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-20 14:22:05 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-20 14:22:05 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-20 14:22:05 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11m-seg.pt
+2024-10-20 14:22:10 - INFO - MainProcess - Starting training
+2024-10-21 05:52:49 - INFO - MainProcess - Training completed
+2024-10-21 05:52:49 - INFO - MainProcess - Starting model evaluation
+2024-10-21 05:53:57 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train6
+2024-10-21 05:53:57 - INFO - MainProcess - Experiment 4 on GPU cuda:1 completed successfully
+2024-10-21 05:53:57 - INFO - MainProcess - Running experiment 5 on GPU cuda:1
+2024-10-21 05:53:57 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11m-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 64, 'mosaic': 1.0, 'tune': False}
+2024-10-21 05:53:57 - INFO - MainProcess - Experiment ID: 5
+2024-10-21 05:53:57 - INFO - MainProcess - Running experiment 5 on GPU cuda:1
+2024-10-21 05:53:57 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-21 05:53:57 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-21 05:53:57 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-21 05:53:57 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-21 05:53:57 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-21 05:53:57 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11m-seg.pt
+2024-10-21 05:54:02 - INFO - MainProcess - Starting training
+2024-10-22 06:06:59 - INFO - MainProcess - Training completed
+2024-10-22 06:06:59 - INFO - MainProcess - Starting model evaluation
+2024-10-22 06:08:09 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train7
+2024-10-22 06:08:09 - INFO - MainProcess - Experiment 5 on GPU cuda:1 completed successfully
+2024-10-22 06:08:09 - INFO - MainProcess - Running experiment 6 on GPU cuda:1
+2024-10-22 06:08:09 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11l-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-10-22 06:08:09 - INFO - MainProcess - Experiment ID: 6
+2024-10-22 06:08:09 - INFO - MainProcess - Running experiment 6 on GPU cuda:1
+2024-10-22 06:08:09 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-22 06:08:09 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-22 06:08:09 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-22 06:08:09 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-22 06:08:09 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-22 06:08:09 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11l-seg.pt
+2024-10-22 06:08:13 - INFO - MainProcess - Starting training
+2024-10-23 17:42:15 - INFO - MainProcess - Training completed
+2024-10-23 17:42:15 - INFO - MainProcess - Starting model evaluation
+2024-10-23 17:43:30 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train8
+2024-10-23 17:43:31 - INFO - MainProcess - Experiment 6 on GPU cuda:1 completed successfully
+2024-10-23 17:43:31 - INFO - MainProcess - Running experiment 7 on GPU cuda:1
+2024-10-23 17:43:31 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11l-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 16, 'mosaic': 1.0, 'tune': False}
+2024-10-23 17:43:31 - INFO - MainProcess - Experiment ID: 7
+2024-10-23 17:43:31 - INFO - MainProcess - Running experiment 7 on GPU cuda:1
+2024-10-23 17:43:31 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-23 17:43:31 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-23 17:43:31 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-23 17:43:31 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-23 17:43:31 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-23 17:43:31 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11l-seg.pt
+2024-10-23 17:43:35 - INFO - MainProcess - Starting training
+2024-10-25 05:26:08 - INFO - MainProcess - Training completed
+2024-10-25 05:26:08 - INFO - MainProcess - Starting model evaluation
+2024-10-25 05:27:26 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train9
+2024-10-25 05:27:27 - INFO - MainProcess - Experiment 7 on GPU cuda:1 completed successfully
+2024-10-25 05:27:27 - INFO - MainProcess - Running experiment 8 on GPU cuda:1
+2024-10-25 05:27:27 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-10-25 05:27:27 - INFO - MainProcess - Experiment ID: 8
+2024-10-25 05:27:27 - INFO - MainProcess - Running experiment 8 on GPU cuda:1
+2024-10-25 05:27:27 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-25 05:27:27 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-25 05:27:27 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-25 05:27:27 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-25 05:27:27 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-25 05:27:27 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11x-seg.pt
+2024-10-25 05:27:31 - INFO - MainProcess - Starting training
+2024-10-27 11:37:03 - INFO - MainProcess - Training completed
+2024-10-27 11:37:03 - INFO - MainProcess - Starting model evaluation
+2024-10-27 11:38:31 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train10
+2024-10-27 11:38:31 - INFO - MainProcess - Experiment 8 on GPU cuda:1 completed successfully
+2024-10-27 11:38:31 - INFO - MainProcess - Running experiment 9 on GPU cuda:1
+2024-10-27 11:38:31 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\yolo11x-seg.pt', 'epochs': 500, 'imgsz': 640, 'patience': 200, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_11_yolov11', 'batch': 12, 'mosaic': 1.0, 'tune': False}
+2024-10-27 11:38:31 - INFO - MainProcess - Experiment ID: 9
+2024-10-27 11:38:31 - INFO - MainProcess - Running experiment 9 on GPU cuda:1
+2024-10-27 11:38:31 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-27 11:38:31 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'. Updating paths.
+2024-10-27 11:38:31 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11\data.yaml'.
+2024-10-27 11:38:31 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_11_yolov11'.
+2024-10-27 11:38:31 - INFO - MainProcess - Dataset structure verified successfully.
+2024-10-27 11:38:31 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\yolo11x-seg.pt
+2024-10-27 11:38:36 - INFO - MainProcess - Starting training
+2024-10-28 16:50:06 - INFO - MainProcess - Training completed
+2024-10-28 16:50:06 - INFO - MainProcess - Starting model evaluation
+2024-10-28 16:51:34 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train11
+2024-10-28 16:51:34 - INFO - MainProcess - Experiment 9 on GPU cuda:1 completed successfully
+2024-10-28 16:51:34 - INFO - MainProcess - All experiments completed
+2024-11-12 09:07:08 - INFO - MainProcess - Starting configurator.py
+2024-11-12 09:07:08 - INFO - MainProcess - Combining Python files for GPT to read
+2024-11-12 09:07:08 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-11-12 09:07:08 - INFO - MainProcess - Starting dataset download process.
+2024-11-12 09:07:11 - ERROR - MainProcess - Dataset download failed with error: Command '['C:\\Users\\wlwee\\anaconda3\\envs\\starSpineFinderSAHI\\python.exe', 'D:\\trainYolo\\src\\dataset_downloader.py', '--api_key', '3DMRGtyRTVJorWA7u61H', '--workspace', 'sunflowerstarlab', '--project', 'sunflowerstarsegchamber', '--version', '1', '--dataset_name', 'sunflowerstarsegchamber_1_yolov11', '--log_file', 'dataset_downloader.log']' returned non-zero exit status 1.
+2024-11-12 09:07:48 - INFO - MainProcess - Starting configurator.py
+2024-11-12 09:07:48 - INFO - MainProcess - Combining Python files for GPT to read
+2024-11-12 09:07:48 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-11-12 09:07:48 - INFO - MainProcess - Starting dataset download process.
+2024-11-12 09:07:51 - ERROR - MainProcess - Dataset download failed with error: Command '['C:\\Users\\wlwee\\anaconda3\\envs\\starSpineFinderSAHI\\python.exe', 'D:\\trainYolo\\src\\dataset_downloader.py', '--api_key', '3DMRGtyRTVJorWA7u61H', '--workspace', 'sunflowerstarlab', '--project', 'sunflowerstarsegchamber', '--version', '1', '--dataset_name', 'sunflowerstarsegchamber_1_yolov11', '--log_file', 'dataset_downloader.log']' returned non-zero exit status 1.
+2024-11-12 09:27:29 - INFO - MainProcess - Starting configurator.py
+2024-11-12 09:27:29 - INFO - MainProcess - Combining Python files for GPT to read
+2024-11-12 09:27:29 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-11-12 09:27:29 - INFO - MainProcess - Starting dataset download process.
+2024-11-12 09:27:31 - ERROR - MainProcess - Dataset download failed with error: Command '['C:\\Users\\wlwee\\anaconda3\\envs\\starSpineFinderSAHI\\python.exe', 'D:\\trainYolo\\src\\dataset_downloader.py', '--api_key', '3DMRGtyRTVJorWA7u61H', '--workspace', 'sunflowerstarlab', '--project', 'sunflowerstarsegchamber', '--version', '1', '--dataset_name', 'sunflowerstarsegchamber_1_yolov11', '--log_file', 'dataset_downloader.log']' returned non-zero exit status 1.
+2024-11-12 09:28:09 - INFO - MainProcess - Starting configurator.py
+2024-11-12 09:28:09 - INFO - MainProcess - Combining Python files for GPT to read
+2024-11-12 09:28:09 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-11-12 09:28:09 - INFO - MainProcess - Starting dataset download process.
+2024-11-12 09:28:11 - ERROR - MainProcess - Dataset download failed with error: Command '['C:\\Users\\wlwee\\anaconda3\\envs\\starSpineFinderSAHI\\python.exe', 'D:\\trainYolo\\src\\dataset_downloader.py', '--api_key', '3DMRGtyRTVJorWA7u61H', '--workspace', 'sunflowerstarlab', '--project', 'sunflowerstarsegchamber', '--version', '1', '--dataset_name', 'sunflowerstarsegchamber_1_yolov11', '--log_file', 'dataset_downloader.log']' returned non-zero exit status 1.
+2024-11-12 09:33:53 - INFO - MainProcess - Starting configurator.py
+2024-11-12 09:33:53 - INFO - MainProcess - Combining Python files for GPT to read
+2024-11-12 09:33:53 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-11-12 09:33:53 - INFO - MainProcess - Starting dataset download process.
+2024-11-12 09:33:55 - ERROR - MainProcess - Dataset download failed with error: Command '['C:\\Users\\wlwee\\anaconda3\\envs\\starSpineFinderSAHI\\python.exe', 'D:\\trainYolo\\src\\dataset_downloader.py', '--api_key', '3DMRGtyRTVJorWA7u61H', '--workspace', 'sunflowerstarlab', '--project', 'sunflowerstarsegchamber', '--version', '2', '--dataset_name', 'sunflowerstarsegchamber_1_yolov11', '--log_file', 'dataset_downloader.log']' returned non-zero exit status 1.
+2024-11-12 09:34:11 - INFO - MainProcess - Starting configurator.py
+2024-11-12 09:34:11 - INFO - MainProcess - Combining Python files for GPT to read
+2024-11-12 09:34:11 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-11-12 09:34:11 - INFO - MainProcess - Starting dataset download process.
+2024-11-12 09:34:13 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-11-12 09:34:13 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11n-seg.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 128, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:34:13 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11s-seg.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 96, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:34:13 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11m-seg.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 64, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:34:13 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11l-seg.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 16, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:34:13 - INFO - MainProcess - Experiment 5 settings: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11x-seg.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:34:13 - INFO - MainProcess - Total number of experiments to run: 5
+2024-11-12 09:34:13 - INFO - MainProcess - Number of available GPUs: 2
+2024-11-12 09:34:13 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-11-12 09:34:13 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11n-seg.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 128, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:34:13 - INFO - MainProcess - Experiment ID: 0
+2024-11-12 09:34:13 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-11-12 09:34:13 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:34:13 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:34:13 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:34:13 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:34:13 - INFO - MainProcess - Dataset structure verified successfully.
+2024-11-12 09:34:13 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\starSegPreTrainingRun\yolo11n-seg.pt
+2024-11-12 09:34:17 - INFO - MainProcess - Starting training
+2024-11-12 09:37:48 - INFO - MainProcess - Starting configurator.py
+2024-11-12 09:37:48 - INFO - MainProcess - Combining Python files for GPT to read
+2024-11-12 09:37:48 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-11-12 09:37:48 - INFO - MainProcess - Starting dataset download process.
+2024-11-12 09:37:50 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-11-12 09:37:50 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11n-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:37:50 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11s-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:37:50 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11m-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:37:50 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11l-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:37:50 - INFO - MainProcess - Experiment 5 settings: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11x-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:37:50 - INFO - MainProcess - Total number of experiments to run: 5
+2024-11-12 09:37:50 - INFO - MainProcess - Number of available GPUs: 2
+2024-11-12 09:37:50 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-11-12 09:37:50 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11n-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:37:50 - INFO - MainProcess - Experiment ID: 0
+2024-11-12 09:37:50 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-11-12 09:37:50 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:37:50 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:37:50 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:37:50 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:37:50 - INFO - MainProcess - Dataset structure verified successfully.
+2024-11-12 09:37:50 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\starSegPreTrainingRun\yolo11n-seg_best.pt
+2024-11-12 09:38:00 - ERROR - MainProcess - An error occurred in main: local variable 'e' referenced before assignment
+Traceback (most recent call last):
+  File "D:\trainYolo\src\trainer.py", line 149, in train_model
+    model = YOLO(config['model'])
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\models\yolo\model.py", line 23, in __init__
+    super().__init__(model=model, task=task, verbose=verbose)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 145, in __init__
+    self._load(model, task=task)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 285, in _load
+    self.model, self.ckpt = attempt_load_one_weight(weights)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 910, in attempt_load_one_weight
+    ckpt, weight = torch_safe_load(weight)  # load ckpt
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 837, in torch_safe_load
+    ckpt = torch.load(file, map_location="cpu")
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\patches.py", line 86, in torch_load
+    return _torch_load(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 1319, in load
+    with _open_file_like(f, "rb") as opened_file:
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 659, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 640, in __init__
+    super().__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11n-seg_best.pt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\trainYolo\src\trainer.py", line 254, in main
+    best_model = train_model(config)
+  File "D:\trainYolo\src\trainer.py", line 160, in train_model
+    print(f"Error loading model: {e}")
+UnboundLocalError: local variable 'e' referenced before assignment
+2024-11-12 09:38:00 - ERROR - MainProcess - Experiment 0 on GPU cuda:1 failed with error: local variable 'e' referenced before assignment
+Traceback (most recent call last):
+  File "D:\trainYolo\src\trainer.py", line 149, in train_model
+    model = YOLO(config['model'])
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\models\yolo\model.py", line 23, in __init__
+    super().__init__(model=model, task=task, verbose=verbose)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 145, in __init__
+    self._load(model, task=task)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 285, in _load
+    self.model, self.ckpt = attempt_load_one_weight(weights)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 910, in attempt_load_one_weight
+    ckpt, weight = torch_safe_load(weight)  # load ckpt
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 837, in torch_safe_load
+    ckpt = torch.load(file, map_location="cpu")
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\patches.py", line 86, in torch_load
+    return _torch_load(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 1319, in load
+    with _open_file_like(f, "rb") as opened_file:
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 659, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 640, in __init__
+    super().__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11n-seg_best.pt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\trainYolo\src\configurator.py", line 89, in run_experiment
+    trainer_main(args_namespace)
+  File "D:\trainYolo\src\trainer.py", line 254, in main
+    best_model = train_model(config)
+  File "D:\trainYolo\src\trainer.py", line 160, in train_model
+    print(f"Error loading model: {e}")
+UnboundLocalError: local variable 'e' referenced before assignment
+2024-11-12 09:38:00 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2024-11-12 09:38:00 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11s-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:38:00 - INFO - MainProcess - Experiment ID: 1
+2024-11-12 09:38:00 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2024-11-12 09:38:00 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:38:00 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:38:00 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:38:00 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:38:00 - INFO - MainProcess - Dataset structure verified successfully.
+2024-11-12 09:38:00 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\starSegPreTrainingRun\yolo11s-seg_best.pt
+2024-11-12 09:38:04 - ERROR - MainProcess - An error occurred in main: local variable 'e' referenced before assignment
+Traceback (most recent call last):
+  File "D:\trainYolo\src\trainer.py", line 149, in train_model
+    model = YOLO(config['model'])
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\models\yolo\model.py", line 23, in __init__
+    super().__init__(model=model, task=task, verbose=verbose)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 145, in __init__
+    self._load(model, task=task)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 285, in _load
+    self.model, self.ckpt = attempt_load_one_weight(weights)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 910, in attempt_load_one_weight
+    ckpt, weight = torch_safe_load(weight)  # load ckpt
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 837, in torch_safe_load
+    ckpt = torch.load(file, map_location="cpu")
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\patches.py", line 86, in torch_load
+    return _torch_load(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 1319, in load
+    with _open_file_like(f, "rb") as opened_file:
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 659, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 640, in __init__
+    super().__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11s-seg_best.pt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\trainYolo\src\trainer.py", line 254, in main
+    best_model = train_model(config)
+  File "D:\trainYolo\src\trainer.py", line 160, in train_model
+    print(f"Error loading model: {e}")
+UnboundLocalError: local variable 'e' referenced before assignment
+2024-11-12 09:38:04 - ERROR - MainProcess - Experiment 1 on GPU cuda:1 failed with error: local variable 'e' referenced before assignment
+Traceback (most recent call last):
+  File "D:\trainYolo\src\trainer.py", line 149, in train_model
+    model = YOLO(config['model'])
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\models\yolo\model.py", line 23, in __init__
+    super().__init__(model=model, task=task, verbose=verbose)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 145, in __init__
+    self._load(model, task=task)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 285, in _load
+    self.model, self.ckpt = attempt_load_one_weight(weights)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 910, in attempt_load_one_weight
+    ckpt, weight = torch_safe_load(weight)  # load ckpt
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 837, in torch_safe_load
+    ckpt = torch.load(file, map_location="cpu")
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\patches.py", line 86, in torch_load
+    return _torch_load(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 1319, in load
+    with _open_file_like(f, "rb") as opened_file:
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 659, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 640, in __init__
+    super().__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11s-seg_best.pt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\trainYolo\src\configurator.py", line 89, in run_experiment
+    trainer_main(args_namespace)
+  File "D:\trainYolo\src\trainer.py", line 254, in main
+    best_model = train_model(config)
+  File "D:\trainYolo\src\trainer.py", line 160, in train_model
+    print(f"Error loading model: {e}")
+UnboundLocalError: local variable 'e' referenced before assignment
+2024-11-12 09:38:04 - INFO - MainProcess - Running experiment 2 on GPU cuda:1
+2024-11-12 09:38:04 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\yolo11m-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:38:04 - INFO - MainProcess - Experiment ID: 2
+2024-11-12 09:38:04 - INFO - MainProcess - Running experiment 2 on GPU cuda:1
+2024-11-12 09:38:04 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:38:04 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:38:04 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:38:04 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:38:04 - INFO - MainProcess - Dataset structure verified successfully.
+2024-11-12 09:38:04 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\starSegPreTrainingRun\yolo11m-seg_best.pt
+2024-11-12 09:38:22 - INFO - MainProcess - Starting configurator.py
+2024-11-12 09:38:22 - INFO - MainProcess - Combining Python files for GPT to read
+2024-11-12 09:38:22 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-11-12 09:38:22 - INFO - MainProcess - Starting dataset download process.
+2024-11-12 09:38:24 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-11-12 09:38:24 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\best_models\\yolo11n-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:38:24 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\best_models\\yolo11s-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:38:24 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\best_models\\yolo11m-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:38:24 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\best_models\\yolo11l-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:38:24 - INFO - MainProcess - Experiment 5 settings: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\best_models\\yolo11x-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:38:24 - INFO - MainProcess - Total number of experiments to run: 5
+2024-11-12 09:38:24 - INFO - MainProcess - Number of available GPUs: 2
+2024-11-12 09:38:24 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-11-12 09:38:24 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\best_models\\yolo11n-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:38:24 - INFO - MainProcess - Experiment ID: 0
+2024-11-12 09:38:24 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-11-12 09:38:24 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:38:24 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:38:24 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:38:24 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:38:24 - INFO - MainProcess - Dataset structure verified successfully.
+2024-11-12 09:38:24 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\starSegPreTrainingRun\best_models\yolo11n-seg_best.pt
+2024-11-12 09:38:38 - ERROR - MainProcess - An error occurred in main: local variable 'e' referenced before assignment
+Traceback (most recent call last):
+  File "D:\trainYolo\src\trainer.py", line 149, in train_model
+    model = YOLO(config['model'])
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\models\yolo\model.py", line 23, in __init__
+    super().__init__(model=model, task=task, verbose=verbose)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 145, in __init__
+    self._load(model, task=task)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 285, in _load
+    self.model, self.ckpt = attempt_load_one_weight(weights)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 910, in attempt_load_one_weight
+    ckpt, weight = torch_safe_load(weight)  # load ckpt
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 837, in torch_safe_load
+    ckpt = torch.load(file, map_location="cpu")
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\patches.py", line 86, in torch_load
+    return _torch_load(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 1319, in load
+    with _open_file_like(f, "rb") as opened_file:
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 659, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 640, in __init__
+    super().__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\trainYolo\\models\\starSegPreTrainingRun\\best_models\\yolo11n-seg_best.pt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\trainYolo\src\trainer.py", line 254, in main
+    best_model = train_model(config)
+  File "D:\trainYolo\src\trainer.py", line 160, in train_model
+    print(f"Error loading model: {e}")
+UnboundLocalError: local variable 'e' referenced before assignment
+2024-11-12 09:38:38 - ERROR - MainProcess - Experiment 0 on GPU cuda:1 failed with error: local variable 'e' referenced before assignment
+Traceback (most recent call last):
+  File "D:\trainYolo\src\trainer.py", line 149, in train_model
+    model = YOLO(config['model'])
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\models\yolo\model.py", line 23, in __init__
+    super().__init__(model=model, task=task, verbose=verbose)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 145, in __init__
+    self._load(model, task=task)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 285, in _load
+    self.model, self.ckpt = attempt_load_one_weight(weights)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 910, in attempt_load_one_weight
+    ckpt, weight = torch_safe_load(weight)  # load ckpt
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 837, in torch_safe_load
+    ckpt = torch.load(file, map_location="cpu")
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\patches.py", line 86, in torch_load
+    return _torch_load(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 1319, in load
+    with _open_file_like(f, "rb") as opened_file:
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 659, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 640, in __init__
+    super().__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\trainYolo\\models\\starSegPreTrainingRun\\best_models\\yolo11n-seg_best.pt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\trainYolo\src\configurator.py", line 89, in run_experiment
+    trainer_main(args_namespace)
+  File "D:\trainYolo\src\trainer.py", line 254, in main
+    best_model = train_model(config)
+  File "D:\trainYolo\src\trainer.py", line 160, in train_model
+    print(f"Error loading model: {e}")
+UnboundLocalError: local variable 'e' referenced before assignment
+2024-11-12 09:38:38 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2024-11-12 09:38:38 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\best_models\\yolo11s-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:38:38 - INFO - MainProcess - Experiment ID: 1
+2024-11-12 09:38:38 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2024-11-12 09:38:38 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:38:38 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:38:38 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:38:38 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:38:38 - INFO - MainProcess - Dataset structure verified successfully.
+2024-11-12 09:38:38 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\starSegPreTrainingRun\best_models\yolo11s-seg_best.pt
+2024-11-12 09:38:43 - ERROR - MainProcess - An error occurred in main: local variable 'e' referenced before assignment
+Traceback (most recent call last):
+  File "D:\trainYolo\src\trainer.py", line 149, in train_model
+    model = YOLO(config['model'])
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\models\yolo\model.py", line 23, in __init__
+    super().__init__(model=model, task=task, verbose=verbose)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 145, in __init__
+    self._load(model, task=task)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 285, in _load
+    self.model, self.ckpt = attempt_load_one_weight(weights)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 910, in attempt_load_one_weight
+    ckpt, weight = torch_safe_load(weight)  # load ckpt
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 837, in torch_safe_load
+    ckpt = torch.load(file, map_location="cpu")
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\patches.py", line 86, in torch_load
+    return _torch_load(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 1319, in load
+    with _open_file_like(f, "rb") as opened_file:
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 659, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 640, in __init__
+    super().__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\trainYolo\\models\\starSegPreTrainingRun\\best_models\\yolo11s-seg_best.pt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\trainYolo\src\trainer.py", line 254, in main
+    best_model = train_model(config)
+  File "D:\trainYolo\src\trainer.py", line 160, in train_model
+    print(f"Error loading model: {e}")
+UnboundLocalError: local variable 'e' referenced before assignment
+2024-11-12 09:38:43 - ERROR - MainProcess - Experiment 1 on GPU cuda:1 failed with error: local variable 'e' referenced before assignment
+Traceback (most recent call last):
+  File "D:\trainYolo\src\trainer.py", line 149, in train_model
+    model = YOLO(config['model'])
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\models\yolo\model.py", line 23, in __init__
+    super().__init__(model=model, task=task, verbose=verbose)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 145, in __init__
+    self._load(model, task=task)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\engine\model.py", line 285, in _load
+    self.model, self.ckpt = attempt_load_one_weight(weights)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 910, in attempt_load_one_weight
+    ckpt, weight = torch_safe_load(weight)  # load ckpt
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\nn\tasks.py", line 837, in torch_safe_load
+    ckpt = torch.load(file, map_location="cpu")
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\ultralytics\utils\patches.py", line 86, in torch_load
+    return _torch_load(*args, **kwargs)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 1319, in load
+    with _open_file_like(f, "rb") as opened_file:
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 659, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "C:\Users\wlwee\anaconda3\envs\starSpineFinderSAHI\lib\site-packages\torch\serialization.py", line 640, in __init__
+    super().__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\trainYolo\\models\\starSegPreTrainingRun\\best_models\\yolo11s-seg_best.pt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\trainYolo\src\configurator.py", line 89, in run_experiment
+    trainer_main(args_namespace)
+  File "D:\trainYolo\src\trainer.py", line 254, in main
+    best_model = train_model(config)
+  File "D:\trainYolo\src\trainer.py", line 160, in train_model
+    print(f"Error loading model: {e}")
+UnboundLocalError: local variable 'e' referenced before assignment
+2024-11-12 09:38:43 - INFO - MainProcess - Running experiment 2 on GPU cuda:1
+2024-11-12 09:38:43 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\models\\starSegPreTrainingRun\\best_models\\yolo11m-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:38:43 - INFO - MainProcess - Experiment ID: 2
+2024-11-12 09:38:43 - INFO - MainProcess - Running experiment 2 on GPU cuda:1
+2024-11-12 09:38:43 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:38:43 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:38:43 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:38:43 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:38:43 - INFO - MainProcess - Dataset structure verified successfully.
+2024-11-12 09:38:43 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\models\starSegPreTrainingRun\best_models\yolo11m-seg_best.pt
+2024-11-12 09:39:12 - INFO - MainProcess - Starting configurator.py
+2024-11-12 09:39:12 - INFO - MainProcess - Combining Python files for GPT to read
+2024-11-12 09:39:12 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-11-12 09:39:12 - INFO - MainProcess - Starting dataset download process.
+2024-11-12 09:39:14 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-11-12 09:39:14 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11n-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:39:14 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11s-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:39:14 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11m-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:39:14 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11l-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:39:14 - INFO - MainProcess - Experiment 5 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11x-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:39:14 - INFO - MainProcess - Total number of experiments to run: 5
+2024-11-12 09:39:14 - INFO - MainProcess - Number of available GPUs: 2
+2024-11-12 09:39:14 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-11-12 09:39:14 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11n-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:39:14 - INFO - MainProcess - Experiment ID: 0
+2024-11-12 09:39:14 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-11-12 09:39:14 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:39:14 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:39:14 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:39:14 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:39:14 - INFO - MainProcess - Dataset structure verified successfully.
+2024-11-12 09:39:14 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\src\runs\segment\starSegPreTrainingRun\best_models\yolo11n-seg_best.pt
+2024-11-12 09:39:18 - INFO - MainProcess - Starting training
+2024-11-12 09:45:03 - INFO - MainProcess - Training completed
+2024-11-12 09:45:03 - INFO - MainProcess - Starting model evaluation
+2024-11-12 09:45:36 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train
+2024-11-12 09:45:36 - INFO - MainProcess - Experiment 0 on GPU cuda:1 completed successfully
+2024-11-12 09:45:36 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2024-11-12 09:45:36 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11s-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 20, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:45:36 - INFO - MainProcess - Experiment ID: 1
+2024-11-12 09:45:36 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2024-11-12 09:45:36 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:45:36 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:45:36 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:45:36 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:45:36 - INFO - MainProcess - Dataset structure verified successfully.
+2024-11-12 09:45:36 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\src\runs\segment\starSegPreTrainingRun\best_models\yolo11s-seg_best.pt
+2024-11-12 09:45:40 - INFO - MainProcess - Starting training
+2024-11-12 09:46:36 - INFO - MainProcess - Starting configurator.py
+2024-11-12 09:46:36 - INFO - MainProcess - Combining Python files for GPT to read
+2024-11-12 09:46:36 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2024-11-12 09:46:36 - INFO - MainProcess - Starting dataset download process.
+2024-11-12 09:46:39 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2024-11-12 09:46:39 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11n-seg_best.pt', 'epochs': 50, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:46:39 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11s-seg_best.pt', 'epochs': 50, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:46:39 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11m-seg_best.pt', 'epochs': 50, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:46:39 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11l-seg_best.pt', 'epochs': 50, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:46:39 - INFO - MainProcess - Experiment 5 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11x-seg_best.pt', 'epochs': 50, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:46:39 - INFO - MainProcess - Total number of experiments to run: 5
+2024-11-12 09:46:39 - INFO - MainProcess - Number of available GPUs: 2
+2024-11-12 09:46:39 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-11-12 09:46:39 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11n-seg_best.pt', 'epochs': 50, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:46:39 - INFO - MainProcess - Experiment ID: 0
+2024-11-12 09:46:39 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2024-11-12 09:46:39 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:46:39 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:46:39 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:46:39 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:46:39 - INFO - MainProcess - Dataset structure verified successfully.
+2024-11-12 09:46:39 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\src\runs\segment\starSegPreTrainingRun\best_models\yolo11n-seg_best.pt
+2024-11-12 09:46:40 - INFO - MainProcess - Starting training
+2024-11-12 09:52:40 - INFO - MainProcess - Training completed
+2024-11-12 09:52:40 - INFO - MainProcess - Starting model evaluation
+2024-11-12 09:53:13 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train
+2024-11-12 09:53:13 - INFO - MainProcess - Experiment 0 on GPU cuda:1 completed successfully
+2024-11-12 09:53:13 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2024-11-12 09:53:13 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11s-seg_best.pt', 'epochs': 50, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 09:53:13 - INFO - MainProcess - Experiment ID: 1
+2024-11-12 09:53:13 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2024-11-12 09:53:13 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:53:13 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 09:53:13 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 09:53:13 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 09:53:13 - INFO - MainProcess - Dataset structure verified successfully.
+2024-11-12 09:53:13 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\src\runs\segment\starSegPreTrainingRun\best_models\yolo11s-seg_best.pt
+2024-11-12 09:53:17 - INFO - MainProcess - Starting training
+2024-11-12 10:02:39 - INFO - MainProcess - Training completed
+2024-11-12 10:02:39 - INFO - MainProcess - Starting model evaluation
+2024-11-12 10:03:11 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train3
+2024-11-12 10:03:11 - INFO - MainProcess - Experiment 1 on GPU cuda:1 completed successfully
+2024-11-12 10:03:11 - INFO - MainProcess - Running experiment 2 on GPU cuda:1
+2024-11-12 10:03:11 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11m-seg_best.pt', 'epochs': 50, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 10:03:11 - INFO - MainProcess - Experiment ID: 2
+2024-11-12 10:03:11 - INFO - MainProcess - Running experiment 2 on GPU cuda:1
+2024-11-12 10:03:11 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 10:03:11 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 10:03:11 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 10:03:11 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 10:03:11 - INFO - MainProcess - Dataset structure verified successfully.
+2024-11-12 10:03:11 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\src\runs\segment\starSegPreTrainingRun\best_models\yolo11m-seg_best.pt
+2024-11-12 10:03:16 - INFO - MainProcess - Starting training
+2024-11-12 10:15:01 - INFO - MainProcess - Training completed
+2024-11-12 10:15:01 - INFO - MainProcess - Starting model evaluation
+2024-11-12 10:15:33 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train4
+2024-11-12 10:15:33 - INFO - MainProcess - Experiment 2 on GPU cuda:1 completed successfully
+2024-11-12 10:15:33 - INFO - MainProcess - Running experiment 3 on GPU cuda:1
+2024-11-12 10:15:33 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11l-seg_best.pt', 'epochs': 50, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 10:15:33 - INFO - MainProcess - Experiment ID: 3
+2024-11-12 10:15:33 - INFO - MainProcess - Running experiment 3 on GPU cuda:1
+2024-11-12 10:15:33 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 10:15:33 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 10:15:33 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 10:15:33 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 10:15:33 - INFO - MainProcess - Dataset structure verified successfully.
+2024-11-12 10:15:33 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\src\runs\segment\starSegPreTrainingRun\best_models\yolo11l-seg_best.pt
+2024-11-12 10:15:37 - INFO - MainProcess - Starting training
+2024-11-12 10:29:02 - INFO - MainProcess - Training completed
+2024-11-12 10:29:02 - INFO - MainProcess - Starting model evaluation
+2024-11-12 10:29:34 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train5
+2024-11-12 10:29:34 - INFO - MainProcess - Experiment 3 on GPU cuda:1 completed successfully
+2024-11-12 10:29:34 - INFO - MainProcess - Running experiment 4 on GPU cuda:1
+2024-11-12 10:29:34 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11x-seg_best.pt', 'epochs': 50, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarsegchamber_2_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2024-11-12 10:29:34 - INFO - MainProcess - Experiment ID: 4
+2024-11-12 10:29:34 - INFO - MainProcess - Running experiment 4 on GPU cuda:1
+2024-11-12 10:29:34 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 10:29:34 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'. Updating paths.
+2024-11-12 10:29:34 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11\data.yaml'.
+2024-11-12 10:29:34 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarsegchamber_2_yolov11'.
+2024-11-12 10:29:34 - INFO - MainProcess - Dataset structure verified successfully.
+2024-11-12 10:29:34 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\src\runs\segment\starSegPreTrainingRun\best_models\yolo11x-seg_best.pt
+2024-11-12 10:29:38 - INFO - MainProcess - Starting training
+2024-11-12 10:46:48 - INFO - MainProcess - Training completed
+2024-11-12 10:46:48 - INFO - MainProcess - Starting model evaluation
+2024-11-12 10:47:21 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train6
+2024-11-12 10:47:21 - INFO - MainProcess - Experiment 4 on GPU cuda:1 completed successfully
+2024-11-12 10:47:21 - INFO - MainProcess - All experiments completed
+2025-01-24 16:51:13 - INFO - MainProcess - Starting configurator.py
+2025-01-24 16:51:13 - INFO - MainProcess - Combining Python files for GPT to read
+2025-01-24 16:51:13 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2025-01-24 16:51:13 - INFO - MainProcess - Starting dataset download process.
+2025-01-24 16:51:51 - ERROR - MainProcess - Dataset download failed with error: Command '['C:\\Users\\wlwee\\anaconda3\\envs\\starSpineFinderSAHI\\python.exe', 'D:\\trainYolo\\src\\dataset_downloader.py', '--api_key', '3DMRGtyRTVJorWA7u61H', '--workspace', 'sunflowerstarlab', '--project', 'sunflowerstarseg', '--version', '12', '--dataset_name', 'sunflowerstarseg_3_yolov11', '--log_file', 'dataset_downloader.log']' returned non-zero exit status 1.
+2025-01-24 16:53:24 - INFO - MainProcess - Starting configurator.py
+2025-01-24 16:53:24 - INFO - MainProcess - Combining Python files for GPT to read
+2025-01-24 16:53:24 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2025-01-24 16:53:24 - INFO - MainProcess - Starting dataset download process.
+2025-01-24 16:53:26 - ERROR - MainProcess - Dataset download failed with error: Command '['C:\\Users\\wlwee\\anaconda3\\envs\\starSpineFinderSAHI\\python.exe', 'D:\\trainYolo\\src\\dataset_downloader.py', '--api_key', '3DMRGtyRTVJorWA7u61H', '--workspace', 'sunflowerstarlab', '--project', 'sunflowerstarseg', '--version', '12', '--dataset_name', 'sunflowerstarseg_12_yolov11', '--log_file', 'dataset_downloader.log']' returned non-zero exit status 1.
+2025-01-24 16:56:59 - INFO - MainProcess - Starting configurator.py
+2025-01-24 16:56:59 - INFO - MainProcess - Combining Python files for GPT to read
+2025-01-24 16:56:59 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2025-01-24 16:56:59 - INFO - MainProcess - Starting dataset download process.
+2025-01-24 16:57:01 - ERROR - MainProcess - Dataset download failed with error: Command '['C:\\Users\\wlwee\\anaconda3\\envs\\starSpineFinderSAHI\\python.exe', 'D:\\trainYolo\\src\\dataset_downloader.py', '--api_key', '3DMRGtyRTVJorWA7u61H', '--workspace', 'sunflowerstarlab', '--project', 'sunflowerstarseg', '--version', '12', '--dataset_name', 'sunflowerstarseg_12_yolov11', '--log_file', 'dataset_downloader.log']' returned non-zero exit status 1.
+2025-01-24 16:58:51 - INFO - MainProcess - Starting configurator.py
+2025-01-24 16:58:51 - INFO - MainProcess - Combining Python files for GPT to read
+2025-01-24 16:58:51 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2025-01-24 16:58:51 - INFO - MainProcess - Starting dataset download process.
+2025-01-24 16:58:53 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2025-01-24 16:58:53 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11n-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_12_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-01-24 16:58:53 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11s-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_12_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-01-24 16:58:53 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11m-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_12_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-01-24 16:58:53 - INFO - MainProcess - Experiment 4 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11l-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_12_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-01-24 16:58:53 - INFO - MainProcess - Experiment 5 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11x-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_12_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-01-24 16:58:53 - INFO - MainProcess - Total number of experiments to run: 5
+2025-01-24 16:58:53 - INFO - MainProcess - Number of available GPUs: 2
+2025-01-24 16:58:53 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2025-01-24 16:58:53 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11n-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_12_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-01-24 16:58:53 - INFO - MainProcess - Experiment ID: 0
+2025-01-24 16:58:53 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2025-01-24 16:58:53 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-24 16:58:53 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\data.yaml'. Updating paths.
+2025-01-24 16:58:53 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\data.yaml'.
+2025-01-24 16:58:53 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-24 16:58:53 - INFO - MainProcess - Dataset structure verified successfully.
+2025-01-24 16:58:53 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\src\runs\segment\starSegPreTrainingRun\best_models\yolo11n-seg_best.pt
+2025-01-24 16:58:54 - INFO - MainProcess - Starting training
+2025-01-24 20:30:55 - INFO - MainProcess - Training completed
+2025-01-24 20:30:55 - INFO - MainProcess - Starting model evaluation
+2025-01-24 20:31:48 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train7
+2025-01-24 20:31:49 - INFO - MainProcess - Experiment 0 on GPU cuda:1 completed successfully
+2025-01-24 20:31:49 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2025-01-24 20:31:49 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11s-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_12_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-01-24 20:31:49 - INFO - MainProcess - Experiment ID: 1
+2025-01-24 20:31:49 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2025-01-24 20:31:49 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-24 20:31:49 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\data.yaml'. Updating paths.
+2025-01-24 20:31:49 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\data.yaml'.
+2025-01-24 20:31:49 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-24 20:31:49 - INFO - MainProcess - Dataset structure verified successfully.
+2025-01-24 20:31:49 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\src\runs\segment\starSegPreTrainingRun\best_models\yolo11s-seg_best.pt
+2025-01-24 20:31:53 - INFO - MainProcess - Starting training
+2025-01-25 00:43:57 - INFO - MainProcess - Training completed
+2025-01-25 00:43:57 - INFO - MainProcess - Starting model evaluation
+2025-01-25 00:44:46 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train8
+2025-01-25 00:44:46 - INFO - MainProcess - Experiment 1 on GPU cuda:1 completed successfully
+2025-01-25 00:44:46 - INFO - MainProcess - Running experiment 2 on GPU cuda:1
+2025-01-25 00:44:46 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11m-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_12_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-01-25 00:44:46 - INFO - MainProcess - Experiment ID: 2
+2025-01-25 00:44:46 - INFO - MainProcess - Running experiment 2 on GPU cuda:1
+2025-01-25 00:44:46 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-25 00:44:46 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\data.yaml'. Updating paths.
+2025-01-25 00:44:46 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\data.yaml'.
+2025-01-25 00:44:46 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-25 00:44:46 - INFO - MainProcess - Dataset structure verified successfully.
+2025-01-25 00:44:46 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\src\runs\segment\starSegPreTrainingRun\best_models\yolo11m-seg_best.pt
+2025-01-25 00:44:50 - INFO - MainProcess - Starting training
+2025-01-25 07:11:06 - INFO - MainProcess - Training completed
+2025-01-25 07:11:06 - INFO - MainProcess - Starting model evaluation
+2025-01-25 07:12:03 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train9
+2025-01-25 07:12:03 - INFO - MainProcess - Experiment 2 on GPU cuda:1 completed successfully
+2025-01-25 07:12:03 - INFO - MainProcess - Running experiment 3 on GPU cuda:1
+2025-01-25 07:12:03 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11l-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_12_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-01-25 07:12:03 - INFO - MainProcess - Experiment ID: 3
+2025-01-25 07:12:03 - INFO - MainProcess - Running experiment 3 on GPU cuda:1
+2025-01-25 07:12:03 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-25 07:12:03 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\data.yaml'. Updating paths.
+2025-01-25 07:12:03 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\data.yaml'.
+2025-01-25 07:12:03 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-25 07:12:03 - INFO - MainProcess - Dataset structure verified successfully.
+2025-01-25 07:12:03 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\src\runs\segment\starSegPreTrainingRun\best_models\yolo11l-seg_best.pt
+2025-01-25 07:12:07 - INFO - MainProcess - Starting training
+2025-01-25 11:14:13 - INFO - MainProcess - Training completed
+2025-01-25 11:14:13 - INFO - MainProcess - Starting model evaluation
+2025-01-25 11:15:13 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train10
+2025-01-25 11:15:13 - INFO - MainProcess - Experiment 3 on GPU cuda:1 completed successfully
+2025-01-25 11:15:13 - INFO - MainProcess - Running experiment 4 on GPU cuda:1
+2025-01-25 11:15:13 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11x-seg_best.pt', 'epochs': 100, 'imgsz': 640, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'sunflowerstarseg_12_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-01-25 11:15:13 - INFO - MainProcess - Experiment ID: 4
+2025-01-25 11:15:13 - INFO - MainProcess - Running experiment 4 on GPU cuda:1
+2025-01-25 11:15:13 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-25 11:15:13 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\data.yaml'. Updating paths.
+2025-01-25 11:15:13 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11\data.yaml'.
+2025-01-25 11:15:13 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\sunflowerstarseg_12_yolov11'.
+2025-01-25 11:15:13 - INFO - MainProcess - Dataset structure verified successfully.
+2025-01-25 11:15:13 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\src\runs\segment\starSegPreTrainingRun\best_models\yolo11x-seg_best.pt
+2025-01-25 11:15:17 - INFO - MainProcess - Starting training
+2025-01-25 22:29:37 - INFO - MainProcess - Training completed
+2025-01-25 22:29:37 - INFO - MainProcess - Starting model evaluation
+2025-01-25 22:30:45 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train11
+2025-01-25 22:30:45 - INFO - MainProcess - Experiment 4 on GPU cuda:1 completed successfully
+2025-01-25 22:30:45 - INFO - MainProcess - All experiments completed
+2025-01-31 14:37:43 - INFO - MainProcess - Starting configurator.py
+2025-01-31 14:37:43 - INFO - MainProcess - Combining Python files for GPT to read
+2025-01-31 14:37:43 - INFO - MainProcess - All Python files have been combined into D:\trainYolo\src\dev\combined_files.py
+2025-01-31 14:37:43 - INFO - MainProcess - Starting dataset download process.
+2025-01-31 14:37:45 - INFO - MainProcess - Dataset downloaded and prepared successfully.
+2025-01-31 14:37:45 - INFO - MainProcess - Experiment 1 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11s-seg_best.pt', 'epochs': 200, 'imgsz': 720, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'SunflowerStarSeg_13_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-01-31 14:37:45 - INFO - MainProcess - Experiment 2 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11m-seg_best.pt', 'epochs': 200, 'imgsz': 720, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'SunflowerStarSeg_13_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-01-31 14:37:45 - INFO - MainProcess - Experiment 3 settings: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11l-seg_best.pt', 'epochs': 200, 'imgsz': 720, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'SunflowerStarSeg_13_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-01-31 14:37:45 - INFO - MainProcess - Total number of experiments to run: 3
+2025-01-31 14:37:46 - INFO - MainProcess - Number of available GPUs: 2
+2025-01-31 14:37:46 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2025-01-31 14:37:46 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11s-seg_best.pt', 'epochs': 200, 'imgsz': 720, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'SunflowerStarSeg_13_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-01-31 14:37:46 - INFO - MainProcess - Experiment ID: 0
+2025-01-31 14:37:46 - INFO - MainProcess - Running experiment 0 on GPU cuda:1
+2025-01-31 14:37:46 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11'.
+2025-01-31 14:37:46 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11\data.yaml'. Updating paths.
+2025-01-31 14:37:46 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11\data.yaml'.
+2025-01-31 14:37:46 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11'.
+2025-01-31 14:37:46 - INFO - MainProcess - Dataset structure verified successfully.
+2025-01-31 14:37:46 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\src\runs\segment\starSegPreTrainingRun\best_models\yolo11s-seg_best.pt
+2025-01-31 14:37:49 - INFO - MainProcess - Starting training
+2025-01-31 21:24:51 - INFO - MainProcess - Training completed
+2025-01-31 21:24:51 - INFO - MainProcess - Starting model evaluation
+2025-01-31 21:25:42 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train
+2025-01-31 21:25:42 - INFO - MainProcess - Experiment 0 on GPU cuda:1 completed successfully
+2025-01-31 21:25:42 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2025-01-31 21:25:42 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11m-seg_best.pt', 'epochs': 200, 'imgsz': 720, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'SunflowerStarSeg_13_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-01-31 21:25:42 - INFO - MainProcess - Experiment ID: 1
+2025-01-31 21:25:42 - INFO - MainProcess - Running experiment 1 on GPU cuda:1
+2025-01-31 21:25:42 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11'.
+2025-01-31 21:25:42 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11\data.yaml'. Updating paths.
+2025-01-31 21:25:42 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11\data.yaml'.
+2025-01-31 21:25:42 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11'.
+2025-01-31 21:25:42 - INFO - MainProcess - Dataset structure verified successfully.
+2025-01-31 21:25:42 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\src\runs\segment\starSegPreTrainingRun\best_models\yolo11m-seg_best.pt
+2025-01-31 21:25:46 - INFO - MainProcess - Starting training
+2025-02-01 12:36:37 - INFO - MainProcess - Training completed
+2025-02-01 12:36:37 - INFO - MainProcess - Starting model evaluation
+2025-02-01 12:37:32 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train3
+2025-02-01 12:37:32 - INFO - MainProcess - Experiment 1 on GPU cuda:1 completed successfully
+2025-02-01 12:37:32 - INFO - MainProcess - Running experiment 2 on GPU cuda:1
+2025-02-01 12:37:32 - INFO - MainProcess - Experiment config: {'model': 'D:\\trainYolo\\src\\runs\\segment\\starSegPreTrainingRun\\best_models\\yolo11l-seg_best.pt', 'epochs': 200, 'imgsz': 720, 'patience': 50, 'close_mosaic': 10, 'dataset_name': 'SunflowerStarSeg_13_yolov11', 'batch': 12, 'mosaic': 0.5, 'tune': False}
+2025-02-01 12:37:32 - INFO - MainProcess - Experiment ID: 2
+2025-02-01 12:37:32 - INFO - MainProcess - Running experiment 2 on GPU cuda:1
+2025-02-01 12:37:32 - INFO - MainProcess - Preparing YAML configuration for dataset at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11'.
+2025-02-01 12:37:32 - INFO - MainProcess - YAML configuration file found at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11\data.yaml'. Updating paths.
+2025-02-01 12:37:32 - INFO - MainProcess - YAML configuration updated at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11\data.yaml'.
+2025-02-01 12:37:32 - INFO - MainProcess - Verifying dataset structure at 'D:\trainYolo\src\datasets\SunflowerStarSeg_13_yolov11'.
+2025-02-01 12:37:32 - INFO - MainProcess - Dataset structure verified successfully.
+2025-02-01 12:37:32 - INFO - MainProcess - Initializing YOLO model: D:\trainYolo\src\runs\segment\starSegPreTrainingRun\best_models\yolo11l-seg_best.pt
+2025-02-01 12:37:36 - INFO - MainProcess - Starting training
+2025-02-02 00:33:55 - INFO - MainProcess - Training completed
+2025-02-02 00:33:55 - INFO - MainProcess - Starting model evaluation
+2025-02-02 00:34:54 - INFO - MainProcess - Training and evaluation completed. Results saved in runs\segment\train4
+2025-02-02 00:34:55 - INFO - MainProcess - Experiment 2 on GPU cuda:1 completed successfully
+2025-02-02 00:34:55 - INFO - MainProcess - All experiments completed
