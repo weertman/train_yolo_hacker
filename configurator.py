@@ -111,7 +111,7 @@ def main():
 
     # Define default arguments
     default_args = {
-        "api_key": "3DMRGtyRTVJorWA7u61H",                # Replace with your actual Roboflow API key
+        "api_key": "YOUR-API-KEY",                # Replace with your actual Roboflow API key
         "workspace": "sunflowerstarlab",                 # Replace with your workspace name
         "project": "sunflowerstarseg",                   # Replace with your project name
         "version": 13,                                    # Replace with your dataset version number
